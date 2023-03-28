@@ -20,6 +20,18 @@ html {
     font-weight: 400;
 }
 
+#logo-holder{
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
+#pt-logo-nav{
+  width: 100px;
+  height: 80px;
+  vertical-align: middle;
+}
+
 header, footer {
   border: 5px solid #065e00;
   border-radius: 15px;
@@ -255,6 +267,11 @@ h6 {
         padding: 3px 7px;
     }
 
+    .col-9 {
+      display: inline-flex;
+      padding: 25px 0 !important;
+    }
+
     section {
       padding: 1.5% 5%;
     }
@@ -302,7 +319,11 @@ h6 {
 
     [class*="col-"] {
         padding: 4px 10px;
-    }    
+    }
+
+    #logo-holder{
+      text-align: left;
+  }
 
     section {
       padding: 2% 10%;
