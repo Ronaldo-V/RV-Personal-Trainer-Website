@@ -57,6 +57,11 @@ a:hover {
   padding: 0;
 }
 
+#hero{
+  color: white !important;
+  text-align: center;
+}
+
 #hero-image {
   background-image: url("../images/hero-image.jpg");
   background-color: #065e00;
@@ -66,6 +71,20 @@ a:hover {
   height: auto;
   border-radius: 15px;
   background-position: center;
+}
+
+#hero-text{
+  padding: 5% 0;
+}
+
+img {
+  border-radius: 15px;
+}
+
+.text-overlay{
+  background-color: rgba(0, 0, 0, 0.7);
+  height: auto;
+  border-radius: 15px;
 }
 
 h1 {
@@ -209,7 +228,7 @@ h6 {
   font-size: 70%;
 }
 
-#hero-image {
+#hero-image, #hero-text {
   min-height: 200px;
 }
 
