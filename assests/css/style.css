@@ -20,9 +20,41 @@ html {
     font-weight: 400;
 }
 
-/* For mobile phones: */
-[class*="col-"] {
-    width: 100%;
+header, footer {
+  border: 5px solid #065e00;
+  border-radius: 15px;
+}
+
+footer {
+  font-weight: 400;
+  min-height: 60px;
+  margin-top: 15px;
+}
+
+header a, footer a {
+  font-size: 140%;
+  font-weight: 500;
+  text-decoration: underline;
+  transition: all 0.25s ease-in-out;
+  -moz-transition: all 0.25s ease-in-out;
+  -webkit-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+}
+
+footer a i {
+  text-decoration: none;
+}
+
+.social-links {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #065e00;
+}
+
+[class*="col-"] img {
+  padding: 0;
 }
 
 #hero-image {
@@ -34,6 +66,15 @@ html {
   height: auto;
   border-radius: 15px;
   background-position: center;
+}
+
+/* For mobile phones: */
+[class*="col-"] {
+    width: 100%;
+}
+
+#hero-image {
+  min-height: 200px;
 }
   
   @media only screen and (min-width: 600px) {
@@ -54,6 +95,10 @@ html {
     [class*="col-"] {
         padding: 3px 7px;
     }
+
+    #hero-image, #hero-text{
+      min-height: 400px;
+    }
   }
 
   @media only screen and (min-width: 768px) {
@@ -73,6 +118,10 @@ html {
 
     [class*="col-"] {
         padding: 4px 10px;
+    }
+
+    #hero-image, #hero-text{
+      min-height: 600px;
     }
   }
 
