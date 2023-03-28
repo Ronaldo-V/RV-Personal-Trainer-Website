@@ -94,7 +94,7 @@ h4 {
   margin: 12px 0;
 }
 
-h5 {
+h5, label, input, ::placeholder  {
   font-size: 110%;
   font-weight: 500;
 }
@@ -149,6 +149,10 @@ p {
     width: 100%;
 }
 
+section {
+  padding: 1%;
+}
+
 h1 {
   font-size: 200%;
 }
@@ -188,6 +192,14 @@ h6 {
         padding: 3px 7px;
     }
 
+    section {
+      padding: 1.5% 5%;
+    }
+
+    #hero-image, #hero-text{
+      min-height: 400px;
+    }
+
     h1 {
       font-size: 275%;
     }
@@ -198,10 +210,6 @@ h6 {
 
     h6 {
       font-size: 100%;
-    }
-
-    #hero-image, #hero-text{
-      min-height: 400px;
     }
 
     #form-area {
@@ -231,6 +239,14 @@ h6 {
 
     [class*="col-"] {
         padding: 4px 10px;
+    }    
+
+    section {
+      padding: 2% 10%;
+    }
+    
+    #hero-image, #hero-text{
+      min-height: 600px;
     }
 
     h1 {
@@ -245,10 +261,6 @@ h6 {
       font-size: 120%;
     }
 
-    #hero-image, #hero-text{
-      min-height: 600px;
-    }
-
     #form-area {
       width: 60%;
     }  
@@ -257,7 +269,6 @@ h6 {
       width: 20vw;
     }
   }
-
 
   @media only screen and (min-width: 992px) {
     /* For large desktop: */
@@ -276,6 +287,10 @@ h6 {
 
     [class*="col-"] {
       padding: 4px 10px;
+    }
+
+    section {
+      padding: 2.5% 15%;
     }
   }
 
@@ -296,5 +311,9 @@ h6 {
 
     [class*="col-"] {
       padding: 5px 10px;
+    }
+
+    section {
+      padding: 3% 17.5%;
     }
   }
