@@ -144,6 +144,50 @@ p {
   margin: auto;
 }
 
+label {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+}
+
+input[type=checkbox] {
+  accent-color: #0a9200;
+}
+
+input[type='text'], input[type='email']  {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 110%;
+  font-weight: 500;
+}
+
+textarea {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 110%;
+  font-weight: 500;
+  width: 70%;
+  height: 80px;
+  border: 3%;
+  resize: none;
+}
+
+.submit-button {
+    background-color: #0a9200;
+    border: black solid 2px;
+    color: #000000;
+    padding: 10px 5px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 15px;
+    transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+}
+  
+.submit-button:hover {
+    background-color: #065e00;
+    color: white;
+}
+
 /* For mobile phones: */
 [class*="col-"] {
     width: 100%;
