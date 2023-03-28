@@ -99,6 +99,11 @@ img {
   border-radius: 15px;
 }
 
+.text-image{
+  width: 100%;
+  height: auto;
+}
+
 h1 {
   font-weight: 700;
   letter-spacing: 10px;
