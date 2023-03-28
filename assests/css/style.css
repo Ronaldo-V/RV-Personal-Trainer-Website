@@ -26,7 +26,7 @@ html {
 }
 
 #hero-image {
-  background-image: url(../images/hero-image.jpg);
+  background-image: url("../images/hero-image.jpg");
   background-color: #065e00;
   background-size: cover;
   background-repeat: no-repeat;
