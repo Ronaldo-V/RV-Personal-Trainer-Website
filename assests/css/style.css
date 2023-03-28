@@ -57,6 +57,16 @@ a:hover {
   padding: 0;
 }
 
+#hero-image {
+  background-image: url("../images/hero-image.jpg");
+  background-color: #065e00;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 200px;
+  height: auto;
+  border-radius: 15px;
+  background-position: center;
+}
 
 h1 {
   font-weight: 700;
@@ -105,15 +115,33 @@ footer h4 {
   font-size: 120%;
 }
 
-#hero-image {
-  background-image: url("../images/hero-image.jpg");
-  background-color: #065e00;
-  background-size: cover;
-  background-repeat: no-repeat;
-  min-height: 200px;
-  height: auto;
+p {
+  letter-spacing: 0.5px;
+  word-spacing: 1.5%;
+  font-size: 110%;
+}
+
+.font-italic {
+  font-style: italic;
+}
+
+#enquire-text {
+  padding-top: 0;
+}
+
+#form-area {
+  margin: 20px auto;
+  padding: 10px;
+  background-color: white;
+  color: black;
+  border: 10px  solid #065e00;
   border-radius: 15px;
-  background-position: center;
+}
+
+.form-details{
+  width: 50vw;
+  display: block;
+  margin: auto;
 }
 
 /* For mobile phones: */
@@ -135,6 +163,10 @@ h6 {
 
 #hero-image {
   min-height: 200px;
+}
+
+#form-area {
+  width: 100%;
 }
   
   @media only screen and (min-width: 600px) {
@@ -171,6 +203,15 @@ h6 {
     #hero-image, #hero-text{
       min-height: 400px;
     }
+
+    #form-area {
+      width: 80%;
+    }
+
+    .form-details{
+      width: 30vw;
+      display: inline-block;
+    }
   }
 
   @media only screen and (min-width: 768px) {
@@ -206,6 +247,14 @@ h6 {
 
     #hero-image, #hero-text{
       min-height: 600px;
+    }
+
+    #form-area {
+      width: 60%;
+    }  
+
+    .form-details{
+      width: 20vw;
     }
   }
 
