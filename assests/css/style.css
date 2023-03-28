@@ -57,6 +57,54 @@ a:hover {
   padding: 0;
 }
 
+
+h1 {
+  font-weight: 700;
+  letter-spacing: 10px;
+  word-spacing: 10px;
+  text-transform: uppercase;
+  text-decoration: underline;
+  padding: 0 1.5%;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 200%;
+    margin-top: 0;
+}
+
+h3 {
+  font-weight: 500;
+  letter-spacing: 2px;
+  padding: 0 2.5%;
+}
+
+h4 {
+  font-size: 150%;
+  margin: 12px 0;
+}
+
+h5 {
+  font-size: 110%;
+  font-weight: 500;
+}
+
+h6 {
+  font-weight: 300;
+  letter-spacing: 1px;
+  padding: 0 2.5%;
+}
+
+footer h4 {
+  padding: 10px 0;
+  font-size: 120%;
+  margin: 12px 0;
+}
+
+#enquire-text h4 {
+  font-size: 120%;
+}
+
 #hero-image {
   background-image: url("../images/hero-image.jpg");
   background-color: #065e00;
@@ -71,6 +119,18 @@ a:hover {
 /* For mobile phones: */
 [class*="col-"] {
     width: 100%;
+}
+
+h1 {
+  font-size: 200%;
+}
+
+h3 {
+  font-size: 90%;
+}
+
+h6 {
+  font-size: 70%;
 }
 
 #hero-image {
@@ -96,6 +156,18 @@ a:hover {
         padding: 3px 7px;
     }
 
+    h1 {
+      font-size: 275%;
+    }
+
+    h3 {
+      font-size: 120%;
+    }
+
+    h6 {
+      font-size: 100%;
+    }
+
     #hero-image, #hero-text{
       min-height: 400px;
     }
@@ -118,6 +190,18 @@ a:hover {
 
     [class*="col-"] {
         padding: 4px 10px;
+    }
+
+    h1 {
+      font-size: 350%;
+    }
+
+    h3 {
+      font-size: 140%;
+    }
+
+    h6 {
+      font-size: 120%;
     }
 
     #hero-image, #hero-text{
