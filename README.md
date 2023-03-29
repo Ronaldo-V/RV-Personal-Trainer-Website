@@ -83,6 +83,26 @@ Ideally most users of this website are perhaps considering getting themselves a 
 
 
 ## DEPLOYMENT
+The project was developed in Gitpod, committed and push to GitHub through using the terminal section in Gitpod.
+To deploy this page to GitHub pages from its GitHub repository, the following steps were taken:
+1. Log into GitHub
+2. From the list of repositories on the screen, select RVPT-website
+3. From the menu list near the top below the project name, select settings
+4. There will be a nav down the left of the screen. Find pages and select it when found
+5. Select the branch dropdown which will say none and change it to main
+6. Press the save button to the right of it
+
+How to run this project locally:
+1. To clone this project into Gitpod you will need a GitHub account
+2. Use the Chrome browser
+
+Then follow the steps:
+1. Install Gitpod Browser Extensions for Chrome
+2. After installation, restart the browser
+3. Log into Gitpod with your Gitpod account
+4. Navigate to the project GitHub repository
+5. Click the green 'Gitpod' button in the top right corner of the repository
+6. This will trigger a new Gitpod workspace to be created from the code in GitHub where you can work locally
 
 
 ## CITATION OF SOURCES
