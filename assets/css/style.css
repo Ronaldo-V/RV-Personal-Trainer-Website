@@ -3,6 +3,10 @@
 * {
     box-sizing: border-box;
   }
+
+body {
+  background-color: black;
+}
   
 .row::after {
     content: "";
@@ -16,24 +20,25 @@
   
 html {
     font-family: 'Ubuntu', sans-serif;
+    color: white !important;
     text-align: center;
     font-weight: 400;
 }
 
-#logo-holder{
+#logo-holder {
   width: 100%;
   display: block;
   text-align: center;
 }
 
-#pt-logo-nav{
+#pt-logo-nav {
   width: 100px;
   height: 80px;
   vertical-align: middle;
 }
 
 header, footer {
-  border: 5px solid #065e00;
+  border: 5px solid white;
   border-radius: 15px;
 }
 
@@ -46,6 +51,7 @@ footer {
 header a, footer a {
   font-size: 140%;
   font-weight: 500;
+  color: white !important;
   text-decoration: underline;
   transition: all 0.25s ease-in-out;
   -moz-transition: all 0.25s ease-in-out;
@@ -62,15 +68,14 @@ footer a i {
 }
 
 a:hover {
-  color: #065e00;
+  color: #065e00 !important;
 }
 
 [class*="col-"] img {
   padding: 0;
 }
 
-#hero{
-  color: white !important;
+#hero {
   text-align: center;
 }
 
@@ -85,7 +90,7 @@ a:hover {
   background-position: center;
 }
 
-#hero-text{
+#hero-text {
   padding: 5% 0;
 }
 
@@ -93,13 +98,13 @@ img {
   border-radius: 15px;
 }
 
-.text-overlay{
+.text-overlay {
   background-color: rgba(0, 0, 0, 0.7);
   height: auto;
   border-radius: 15px;
 }
 
-.text-image{
+.text-image {
   width: 100%;
   height: auto;
 }
@@ -114,9 +119,9 @@ h1 {
 }
 
 h2 {
-    text-decoration: underline;
-    font-size: 200%;
-    margin-top: 0;
+  text-decoration: underline;
+  font-size: 200%;
+  margin-top: 0;
 }
 
 h3 {
@@ -130,7 +135,7 @@ h4 {
   margin: 12px 0;
 }
 
-h5, label, input, ::placeholder  {
+h5, label, input, ::placeholder {
   font-size: 110%;
   font-weight: 500;
 }
@@ -187,7 +192,7 @@ li {
   font-size: 110%;
 }
 
-#enquire-image{
+#enquire-image {
   padding: 0;
   margin: auto;
 }
@@ -201,7 +206,7 @@ li {
   border-radius: 15px;
 }
 
-.form-details{
+.form-details {
   width: 50vw;
   display: block;
   margin: auto;
@@ -216,7 +221,7 @@ input[type=checkbox] {
   accent-color: #0a9200;
 }
 
-input[type='text'], input[type='email']  {
+input[type='text'], input[type='email'] {
   font-family: 'Ubuntu', sans-serif;
   font-size: 110%;
   font-weight: 500;
@@ -233,27 +238,27 @@ textarea {
 }
 
 .submit-button {
-    background-color: #0a9200;
-    border: black solid 2px;
-    color: #000000;
-    padding: 10px 5px;
-    text-decoration: none;
-    display: inline-block;
-    border-radius: 15px;
-    transition: all 0.5s ease-in-out;
-    -moz-transition: all 0.5s ease-in-out;
-    -webkit-transition: all 0.5s ease-in-out;
-    -o-transition: all 0.5s ease-in-out;
+  background-color: #0a9200;
+  border: black solid 2px;
+  color: #000000;
+  padding: 10px 5px;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 15px;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
 }
   
 .submit-button:hover {
-    background-color: #065e00;
-    color: white;
+  background-color: #065e00;
+  color: white;
 }
 
 /* For mobile phones: */
 [class*="col-"] {
-    width: 100%;
+  width: 100%;
 }
 
 section {
@@ -280,7 +285,7 @@ table td {
   display: block;
 }
 
-#enquire-image{
+#enquire-image {
   width: 90vw;
 }
 
@@ -304,7 +309,7 @@ table td {
     .col-s-12 {width: 100%;}
 
     [class*="col-"] {
-        padding: 3px 7px;
+      padding: 3px 7px;
     }
 
     .col-9 {
@@ -316,7 +321,7 @@ table td {
       padding: 1.5% 5%;
     }
 
-    #hero-image, #hero-text{
+    #hero-image, #hero-text {
       min-height: 400px;
     }
 
@@ -367,10 +372,10 @@ table td {
     .col-12 {width: 100%;}
 
     [class*="col-"] {
-        padding: 4px 10px;
+      padding: 4px 10px;
     }
 
-    #logo-holder{
+    #logo-holder {
       text-align: left;
   }
 
@@ -378,7 +383,7 @@ table td {
       padding: 2% 10%;
     }
     
-    #hero-image, #hero-text{
+    #hero-image, #hero-text {
       min-height: 600px;
     }
 
@@ -402,7 +407,7 @@ table td {
       width: 60%;
     }  
 
-    .form-details{
+    .form-details {
       width: 20vw;
     }
   }
