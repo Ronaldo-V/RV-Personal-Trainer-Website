@@ -1,184 +1,172 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="RV Personal Trainer. Qualified PT specialising in strength training and fat loss. 1:1 sessions delivered outside or in gyms.">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://kit.fontawesome.com/b2c335ae22.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="./assets/css/style.css" type="text/css">
-    
-    <title>RV Personal Training</title>
-</head>
-<body>
-    <header>
-        <div class="row">
-            <div class="col-12">
-                <div class="col-3">
-                    <a href="index.html" id="logo-holder">
-                        <img  id="pt-logo-nav" src="./assets/images/pt-logo-white-font.jpg" alt="RVPT">
-                    </a>
-                </div>
-                <div class="col-9">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="RV Personal Trainer. Qualified PT specialising in strength training and fat loss. 1:1 sessions delivered outside or in gyms.">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://kit.fontawesome.com/b2c335ae22.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="./assets/css/style.css" type="text/css">
+        
+        <title>RV Personal Training</title>
+    </head>
+    <body>
+        <!-- Header / Navigation -->
+        <header>
+            <div class="row">
+                <div class="col-12">
                     <div class="col-3">
-                        <a href="index.html">Home</a>
+                        <a href="index.html" id="logo-holder">
+                            <img  id="pt-logo-nav" src="./assets/images/pt-logo-white-font.jpg" alt="RVPT">
+                        </a>
                     </div>
-                    <div class="col-3">
-                        <a href="workout.html">Workout Info</a>
+                    <div class="col-9">
+                        <div class="col-3">
+                            <a href="index.html">Home</a>
+                        </div>
+                        <div class="col-3">
+                            <a href="workout.html">Workout Info</a>
+                        </div>
+                        <div class="col-3">
+                            <a href="nutrition.html">Nutrition</a>
+                        </div>
+                        <div class="col-3">
+                            <a href="enquire.html">Enquire Now</a>
+                        </div>
                     </div>
-                    <div class="col-3">
-                        <a href="nutrition.html">Nutrition</a>
+                </div>
+            </div>
+        </header>
+
+        <!-- PT Logo section -->
+        <section>
+            <div class="row">
+                <div class="col-12">
+                    <img id="enquire-image" src="assets/images/pt-logo-white-font.jpg" alt="PT Logo">
+                </div>
+            </div>
+        </section>
+
+        <!-- Sales pitch section -->
+        <section id="enquire-text">
+            <div class="row">
+                <div class="col-12">
+                    <h4>
+                        I am sure by now, you have leanred that fitness is more than just working out and more than just losing weight. It has many other physical and mental benefits too. 
+                    </h4>
+                    <br>
+                    <h4>
+                        That being said, if you want to achieve your fitness goals, whether it's getting ready for bikini season, or you want to improve your performances in other related sports such as football or golf, or anything else, we are here to help. 
+                    </h4>
+                    <br>
+                    <h4>
+                        If you want a trainer because you just need that extra push and motivation, or you need accountability, or a set workout routine or specific nutrition plan, we are here to help. 
+                    </h4>
+                    <br>
+                    <h4>
+                        Finally, if you want a trainer to teach you new skills and help you improve you mental health, we are here to help.
+                    </h4>
+                    <h4>
+                        Becuase here at RVPT, we care.
+                    </h4>
+                    <br>
+                    <h4>
+                        Complete this form if you are interested in Personal Training and want to achieve more than just your fitness goals.
+                    </h4>
+                </div>
+            </div>
+        </section>
+
+        <!-- Form section -->
+        <section id="form-area">
+            <form method="POST" action="https://formdump.codeinstitute.net/">
+                <div class="row">
+                    <div class="col-12">
+                        <label for="first-name">First Name</label>
+                        <input type="text" class="form-details" id="first-name"
+                        placeholder="First name" required>
                     </div>
-                    <div class="col-3">
-                        <a href="enquire.html">Enquire Now</a>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <label for="last-name">Last Name</label>
+                        <input type="text" class="form-details" id="last-name"
+                        placeholder="Last name" required>
                     </div>
                 </div>
-            </div>
-        </div>
-    </header>
-
-    <!-- PT Logo section -->
-    <section>
-        <div class="row">
-            <div class="col-12">
-                <img id="enquire-image" src="assets/images/pt-logo-white-font.jpg" alt="PT Logo">
-            </div>
-        </div>
-    </section>
-
-    <!-- Sales pitch section -->
-    <section id="enquire-text">
-        <div class="row">
-            <div class="col-12">
-                <h4>I am sure by now, you have leanred that fitness is more than just working out and more than just losing weight. It has many other physical and mental benefits too. 
-                </h4>
+                <div class="row">
+                    <div class="col-12">
+                        <label for="email">Email</label>
+                        <input type="email" class="form-details" id="email"
+                        placeholder="email@address.co.uk" required>
+                    </div>
+                </div>
                 <br>
-                <h4>
-                That being said, if you want to achieve your fitness goals, whether it's getting ready for bikini season, or you want to improve your performances in other related sports such as football or golf, or anything else, we are here to help. 
-                </h4>
+                <div class="row">
+                    <div class="col">
+                        <h5>What is your fitness goal (select all that apply):</h5>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <label class="form-check-label" for="weight-loss">Weight loss</label>
+                        <input class="form-check-input" type="checkbox" value="weight-loss" id="weight-loss" name="goal">
+                    </div>
+                    <div class="col-12">
+                        <label class="form-check-label" for="fat-loss">Fat loss</label>
+                        <input class="form-check-input" type="checkbox" value="fat-loss" id="fat-loss" name="goal">
+                    </div>
+                    <div class="col-12">
+                        <label class="form-check-label" for="hypertrophy">Hypertrophy (Bulking)</label>
+                        <input class="form-check-input" type="checkbox" value="hypertrophy" id="hypertrophy" name="goal">
+                    </div>
+                    <div class="col-12">
+                        <label class="form-check-label" for="strength">Strength Training</label>
+                        <input class="form-check-input" type="checkbox" value="strength" id="strength" name="goal">
+                    </div>
+                    <div class="col-12">
+                        <label class="form-check-label" for="calisthenics">Calisthenics</label>
+                        <input class="form-check-input" type="checkbox" value="calisthenics" id="calisthenics" name="goal">
+                    </div>
+                    <div class="col-12">
+                        <label class="form-check-label" for="muscle-rehab">Muscle Rehabilitation</label>
+                        <input class="form-check-input" type="checkbox" value="muscle-rehab" id="muscle-rehab" name="goal">
+                    </div>
+                    <div class="col-12">
+                        <label class="form-check-label" for="other-goal">Other</label>
+                        <input class="form-check-input" type="checkbox" value="other-goal" id="other-goal" name="goal">
+                    </div>
+                </div>
                 <br>
-                <h4>
-                If you want a trainer because you just need that extra push and motivation, or you need accountability, or a set workout routine or specific nutrition plan, we are here to help. 
-                </h4>
-                <br>
-                <h4>
-                Finally, if you want a trainer to teach you new skills and help you improve you mental health, we are here to help.
-                </h4>
-                <h4>Becuase here at RVPT, we care.
-                </h4>
-                <br>
-                <h4>
-                Complete this form if you are interested in Personal Training and want to achieve more than just your fitness goals.
-                </h4>
-            </div>
-        </div>
-    </section>
+                <div class="row">
+                    <div class="col-12">
+                        <label for="health-concern-textarea"><h5>Any Injuries or health concerns (please state below):</h5></label>
+                        <textarea id="health-concern-textarea" type="text" placeholder="e.g.I have Asthma and an injury to my right knee"></textarea>
+                    </div>
+                </div>
+                <button class="submit-button" type="submit">Submit form</button>    
+            </form>
+        </section>
 
-    <!-- Form section -->
-    <section id="form-area">
-        <form method="POST" action="https://formdump.codeinstitute.net/">
+        <!-- Footer and social links -->
+        <footer>
             <div class="row">
-                <div class="col-12">
-                    <label for="first-name">First Name</label>
-                    <input type="text" class="form-control form-details" id="first-name"
-                    placeholder="First name" required>
-                </div>
+                <h4>Interested in starting your fitness journey with me?</h4>
+                <h4>
+                    <a href="enquire.html">Enquire Now!</a>
+                </h4>
             </div>
             <div class="row">
-                <div class="col-12">
-                    <label for="last-name">Last Name</label>
-                    <input type="text" class="form-control form-details" id="last-name"
-                    placeholder="Last name" required>
-                </div>
+                <a class="social-links" href="https://www.facebook.com/profile.php?id=100029105177465" target="_blank">
+                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a class="social-links" href="https://www.instagram.com/ronaldo.personal_trainer/" target="_blank">
+                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                </a>
             </div>
             <div class="row">
-                <div class="col-12">
-                    <label for="email">Email</label>
-                    <input type="email" class="form-control form-details" id="email"
-                    placeholder="email@address.co.uk" required>
-                </div>
+                <h4>@ronaldo.personal_trainer</h4>
             </div>
-            <br>
-            <div class="row">
-                <div class="col">
-                    <h5>What is your fitness goal (select all that apply):</h5>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <label class="form-check-label" for="weight-loss">
-                        Weight loss
-                    </label>
-                    <input class="form-check-input" type="checkbox" value="weight-loss" id="weight-loss" name="goal">
-                </div>
-                <div class="col-12">
-                    <label class="form-check-label" for="fat-loss">
-                        Fat loss
-                    </label>
-                    <input class="form-check-input" type="checkbox" value="fat-loss" id="fat-loss" name="goal">
-                </div>
-                <div class="col-12">
-                    <label class="form-check-label" for="hypertrophy">
-                        Hypertrophy (Bulking)
-                    </label>
-                    <input class="form-check-input" type="checkbox" value="hypertrophy" id="hypertrophy" name="goal">
-                </div>
-                <div class="col-12">
-                    <label class="form-check-label" for="strength">
-                        Strength Training
-                    </label>
-                    <input class="form-check-input" type="checkbox" value="strength" id="strength" name="goal">
-                </div>
-                <div class="col-12">
-                    <label class="form-check-label" for="calisthenics">
-                        Calisthenics
-                    </label>
-                    <input class="form-check-input" type="checkbox" value="calisthenics" id="calisthenics" name="goal">
-                </div>
-                <div class="col-12">
-                    <label class="form-check-label" for="muscle-rehab">
-                        Muscle Rehabilitation
-                    </label>
-                    <input class="form-check-input" type="checkbox" value="muscle-rehab" id="muscle-rehab" name="goal">
-                </div>
-                <div class="col-12">
-                    <label class="form-check-label" for="other-goal">
-                        Other
-                    </label>
-                    <input class="form-check-input" type="checkbox" value="other-goal" id="other-goal" name="goal">
-                </div>
-            </div>
-            <br>
-            <div class="row">
-                <div class="col-12">
-                    <label for="health-concern-textarea"><h5>Any Injuries or health concerns (please state below):</h5></label>
-                    <textarea class="form-control" id="health-concern-textarea" type="text" placeholder="e.g.I have Asthma and an injury to my right knee"></textarea>
-                </div>
-            </div>
-            <button class="submit-button" type="submit">Submit form</button>    
-        </form>
-    </section>
-
-    <footer>
-        <div class="row">
-            <h4>
-                Interested in starting your fitness journey with me?
-            </h4>
-            <h4>
-                <a href="enquire.html">Enquire Now!</a>
-            </h4>
-        </div>
-        <div class="row">
-                    <a class="social-links" href="https://www.facebook.com/profile.php?id=100029105177465" target="_blank">
-                        <i class="fa fa-facebook" aria-hidden="true"></i>
-                    </a>
-                    <a class="social-links" href="https://www.instagram.com/ronaldo.personal_trainer/" target="_blank">
-                        <i class="fa fa-instagram" aria-hidden="true"></i>
-                    </a>
-        </div>
-        <div class="row">
-            <h4>@ronaldo.personal_trainer</h4>
-        </div>
-    </footer>
-</body>
+        </footer>
+    </body>
 </html>
