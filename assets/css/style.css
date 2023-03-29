@@ -187,6 +187,11 @@ li {
   font-size: 110%;
 }
 
+#enquire-image{
+  padding: 0;
+  margin: auto;
+}
+
 #form-area {
   margin: 20px auto;
   padding: 10px;
@@ -255,6 +260,10 @@ section {
   padding: 1%;
 }
 
+#hero-image, #hero-text {
+  min-height: 200px;
+}
+
 h1 {
   font-size: 200%;
 }
@@ -271,8 +280,8 @@ table td {
   display: block;
 }
 
-#hero-image, #hero-text {
-  min-height: 200px;
+#enquire-image{
+  width: 90vw;
 }
 
 #form-area {
@@ -328,6 +337,10 @@ table td {
       width: 50%;
     }
 
+    #enquire-image{
+      width: 60vw;
+    }
+
     #form-area {
       width: 80%;
     }
@@ -381,6 +394,10 @@ table td {
       font-size: 120%;
     }
 
+    #enquire-image {
+      width: 45vw;
+    }
+
     #form-area {
       width: 60%;
     }  
@@ -412,6 +429,10 @@ table td {
     section {
       padding: 2.5% 15%;
     }
+
+    #enquire-image {
+      width: 35vw;
+    }
   }
 
   @media only screen and (min-width: 1200px) {
@@ -435,5 +456,9 @@ table td {
 
     section {
       padding: 3% 17.5%;
+    }
+
+    #enquire-image {
+      width: 30vw;
     }
   }
