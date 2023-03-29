@@ -1,7 +1,7 @@
 ![RVPT logo](assets/images/pt-logo-white-font.jpg)
 
 # RVPT WEBSITE
-This is a Personal Training website designed to provide information to people new to the fitness industry but more so, help generate leads (potential clients). 
+This is a Personal Training website designed to help provide information to people new to the fitness industry but more so, help generate leads (potential clients). 
 
 Ideally most users of this website are perhaps considering getting themselves a personal trainer. They will find this website useful, they would have hopefully learnt at least one new thing about workouts or nutrition, they would have learnt more about myself and my PT business, but ultimately, they end up completing the enquiry form at the end, in the hopes that they end up becoming a client of mine.
  
