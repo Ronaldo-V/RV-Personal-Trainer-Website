@@ -159,4 +159,27 @@ Then follow the steps:
 - https://stackoverflow.com/questions/39253912/changing-the-color-of-checkbox-if-checked 
 - https://stackoverflow.com/questions/8083430/how-to-change-the-font-and-font-size-of-an-html-input-tag
 
-## FUTURE FEATURES  
+## FUTURE FEATURES
+Images:  
+- Get 4k quality images
+
+Testimonials:
+- Give testimonials its own page where I can have more reviews and include before/after photos  
+
+Workout Info:  
+- Add a section for home workouts and gym workouts  
+- Add a section that explains the benefits of a split routine. Such as why it's better to do an upper body workout one day and then lower body the next, as opposed to two full body workouts  
+- Add a section that talks about Boxing, Spin classes, HIIT classes, Yoga and other training styles/classes  
+- Add a section that explains why supplements could be beneficial such as whey protein or creatine tablets  
+- Add a monthly subscription section where members can sign up for my programme which includes a generic workout and nutrition plan which they can follow along to. This is a cheaper alternative to PT but can generate great income for the business  
+
+Nutrition:  
+- Add more content to the Carbs, Protein and Fats sections  
+- Talk about fibre, fruit and veg  
+- Talk about vitamins. What are the best sources for them and whether or not we should be consuming vitamin tablets  
+- Add a section for Vegans, Vegetarians and Pescetarians  
+- Add a section about lactose free and gluten free foods  
+
+Clients and Members:  
+- Add a members section where only PT clients and members of my monthly subscription programme have access  
+- In this section, they can interact with eachother, get exclusive content and have their own workout progress tracker  
