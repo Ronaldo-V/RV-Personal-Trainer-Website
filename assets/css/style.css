@@ -227,7 +227,11 @@ li {
 
 label {
   font-family: 'Ubuntu', sans-serif;
-  font-weight: 500;
+}
+
+#injuries {
+  display: block;
+  margin-bottom: 2%;
 }
 
 input[type=checkbox] {
