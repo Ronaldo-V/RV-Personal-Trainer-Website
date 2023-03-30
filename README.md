@@ -85,7 +85,6 @@ Ideally most users of this website are perhaps considering getting themselves a 
 - As a person new to fitness:
     - I want to learn new information about workouts to help me when in the gym.
     - I want to learn new information about food to help me make better food choices.
-    - I want to trust the information provided by seeing reviews/testimonials about the business.
 
 - As a person wanting a PT:
     - I want to learn about the Personal Trainer to find out what type of training they specialise in.
