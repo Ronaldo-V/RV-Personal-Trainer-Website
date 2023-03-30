@@ -125,9 +125,7 @@ Ideally most users of this website are perhaps considering getting themselves a 
 ![Wireframe - all pages](wireframes/wireframe-all-pages.png)
 
 ## TESTING
-
 [Testing can be found here](/testing.md)
-
 
 ## DEPLOYMENT
 The project was developed in Gitpod, committed and push to GitHub through using the terminal section in Gitpod.
@@ -155,56 +153,60 @@ Then follow the steps:
 ## CITATION OF SOURCES
 
 ### Media:  
-- I have used the Eatwell Guide image from the NHS (https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/) on my Nutritions page.  
+- I have used the Eatwell Guide image from the NHS Website, this can be found on my Nutritions page:
+    - [https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/]  
 - All other images used are primary sources (my own) with permission received to use photos of clients should they be in them.  
 
 ### Content used in website:  
 - Workout Info:
     - Weight lifting:  
-        - https://personaltouchfitness.co.uk/healthy-advice/physical-wellbeing/muscular-endurance/#:~:text=Muscular%20endurance%20is%20the%20ability,of%20repetitions%20you%20could%20complete
+        - [https://personaltouchfitness.co.uk/healthy-advice/physical-wellbeing/muscular-endurance/#:~:text=Muscular%20endurance%20is%20the%20ability,of%20repetitions%20you%20could%20complete]
 
     - Cardio:  
-        - https://www.realbuzz.com/articles-interests/fitness/article/what-is-cardiovascular-training/  
-        - https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/aerobic-exercise/art-20045541  
-        - https://www.healthline.com/health/fitness-exercise/benefits-of-aerobic-exercise  
+        - [https://www.realbuzz.com/articles-interests/fitness/article/what-is-cardiovascular-training/]
+        - [https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/aerobic-exercise/art-20045541]
+        - [https://www.healthline.com/health/fitness-exercise/benefits-of-aerobic-exercise]
 
     - Stretching:  
-        - https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching  
+        - [https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching]
  
 - Nutrition:
     - Macronutrients:  
-        - https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/ask-the-expert/macronutrients#:~:text=Macronutrients%20are%20the%20nutrients%20we,our%20micronutrients%20along%20with%20macronutrients  
+        - [https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/ask-the-expert/macronutrients#:~:text=Macronutrients%20are%20the%20nutrients%20we,our%20micronutrients%20along%20with%20macronutrients]
 
     - Carbs:  
-        - https://www.reidhealth.org/blog/carbohydrates-101-the-benefits-of-carbohydrates#:~:text=Carbohydrates%20are%20your%20body's%20main,blood%20cholesterol%20levels%20in%20check  
-        - https://medlineplus.gov/carbohydrates.html#:~:text=What%20are%20carbohydrates%3F,cells%2C%20tissues%2C%20and%20organs  
-        - https://www.newhealthadvisor.org/Sources-of-Carbohydrates  
+        - [https://www.reidhealth.org/blog/carbohydrates-101-the-benefits-of-carbohydrates#:~:text=Carbohydrates%20are%20your%20body's%20main,blood%20cholesterol%20levels%20in%20check]  
+        - [https://medlineplus.gov/carbohydrates.html#:~:text=What%20are%20carbohydrates%3F,cells%2C%20tissues%2C%20and%20organs]  
+        - [https://www.newhealthadvisor.org/Sources-of-Carbohydrates]  
 
     - Protein:  
-        - https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/  
-        - https://www.nutrition.org.uk/healthy-sustainable-diets/protein/?level=Consumer  
-        - https://www.mountsinai.org/health-library/tests/hemoglobin  
-        - https://weighttraining.guide/nutrition/protein-in-weight-training/#:~:text=Why%20is%20protein%20important%20for%20weight%20training%3F%20Protein,fibers%20after%20they%20have%20been%20damaged%20by%20workouts  
-        - https://www.bbcgoodfood.com/howto/guide/best-sources-protein  
+        - [https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/]  
+        - [https://www.nutrition.org.uk/healthy-sustainable-diets/protein/?level=Consumer]  
+        - [https://www.mountsinai.org/health-library/tests/hemoglobin]  
+        - [https://weighttraining.guide/nutrition/protein-in-weight-training/#:~:text=Why%20is%20protein%20important%20for%20weight%20training%3F%20Protein,fibers%20after%20they%20have%20been%20damaged%20by%20workouts]  
+        - [https://www.bbcgoodfood.com/howto/guide/best-sources-protein]  
  
     - Fats:  
-        - https://www.nhs.uk/live-well/eat-well/food-types/different-fats-nutrition/  
-        - https://meritagemed.com/15-good-fats-eat/#:~:text=15%20Good%20Fats%20To%20Eat%201%201.%20Dark,...%208%208.%20Fatty%20Fish%20...%20More%20items  
+        - [https://www.nhs.uk/live-well/eat-well/food-types/different-fats-nutrition/]  
+        - [https://meritagemed.com/15-good-fats-eat/#:~:text=15%20Good%20Fats%20To%20Eat%201%201.%20Dark,...%208%208.%20Fatty%20Fish%20...%20More%20items]  
 
     - Eatwell:
-        - https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/  
+        - [https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/]  
 
-### Links used to help structure README.md file:  
-- https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/  
+### Links used to help write README.md file:  
+- [https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/]
+- [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
 
-### Links used to help for CSS styling:  
-- https://torquemag.io/2022/05/customize-text-css/#:~:text=You%20simply%20determine%20the%20element,such%20as%20serif%20or%20monospace%20  
-- https://webaim.org/resources/contrastchecker/  
-- https://stackoverflow.com/questions/14628601/can-i-add-background-color-only-for-padding  
-- https://medium.com/@dylanon/throwing-shade-how-to-shade-images-in-html-css-9d37b17b9d10  
-- https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors  
-- https://stackoverflow.com/questions/39253912/changing-the-color-of-checkbox-if-checked 
-- https://stackoverflow.com/questions/8083430/how-to-change-the-font-and-font-size-of-an-html-input-tag
+### Links used to help write HTML and/or CSS:
+- [https://getbootstrap.com/docs/4.5/layout/grid/#grid-options]  
+- [https://getbootstrap.com/docs/4.5/components/forms/]
+- [https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_col-s]
+- [https://www.w3schools.com/css/css_rwd_grid.asp]  
+- [https://torquemag.io/2022/05/customize-text-css/#:~:text=You%20simply%20determine%20the%20element,such%20as%20serif%20or%20monospace%20]  
+- [https://webaim.org/resources/contrastchecker/]
+- [https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors]  
+- [https://stackoverflow.com/questions/39253912/changing-the-color-of-checkbox-if-checked] 
+- [https://stackoverflow.com/questions/8083430/how-to-change-the-font-and-font-size-of-an-html-input-tag]
 
 ## FUTURE FEATURES
 Images:  

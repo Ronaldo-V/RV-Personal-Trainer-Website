@@ -231,7 +231,7 @@ label {
 }
 
 input[type=checkbox] {
-  accent-color: #0a9200;
+  accent-color: #11FA00;
 }
 
 input[type='text'], input[type='email'] {
@@ -251,7 +251,7 @@ textarea {
 }
 
 .submit-button {
-  background-color: #0a9200;
+  background-color: #11FA00;
   border: black solid 2px;
   color: #000000;
   padding: 10px 5px;
