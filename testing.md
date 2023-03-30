@@ -25,6 +25,7 @@ The website's responsiveness should be the same, regardless of the browser being
 | Intended responsiveness | Good | Good | Good | 
 
 ### Bugs test
+No bugs found in final deployment.
 
 ### Lighthouse test
 
@@ -33,5 +34,23 @@ The website's responsiveness should be the same, regardless of the browser being
 ### Code validation test (CSS)
 
 ### User stroies test
+
+| Expect | Action | Result |
+| --- | --- | --- |
+| As a website user I want to press on the business logo in the navigation section and be taken to the home page | I pressed on the logo in the navigation section at the top of the website | I was taken to the home page - Success |
+| As a website user I want to press on 'home' in the navigation and be taken to the home page | I pressed on 'home' in the navigation | I was taken to the home page of the website - Success |
+| As a website user I want to press 'Workout Info' and be taken to the the workout information page | I pressed on 'Workout Info' in the navigation | I was taken to the workout information page - Success |
+| As a website user I want to press 'Nutrition' and be taken to the nutrition page | I pressed on 'Nutrition' in the navigation | I was taken to the nutrition page - Success |
+| As a website user I want to press 'Enquire Now' and be taken to the enquire page | I pressed on 'Enquire Now' in the navigation | I was taken to the enquire page - Success |
+| As a website user I want to press on the instagram icon and be taken to the business' instagram account | I pressed on the instagram icon in the footer | I was taken to the business' instagram account - Success |
+| As a website user I want to press on the facebook icon and be taken to the business' facebook account | I pressed on the facebook icon in the footer | I was taken to the business' instagram account - Success |
+| As a website user I want to press 'Enquire Now!' in the footer and be taken to the enquire page | I pressed on 'Enquire Now!' in the footer | I was taken to the enquire page - Success |
+| As a website user I want to press on the 'NHS Eatwell Guide' link in the nutritions page and be redirected to the NHS Eatwell Guide page on the NHS website | I pressed on 'NHS Eatwell Guide' | I was redirected to the NHS Eatwell Guide page on the NHS website - Success |
+| As a website user I want to press on the 'download or print' link in the nutritions page and have a printable/downloadable food planner document | I pressed on 'download or print' | I was redirected to a separate pdf document where I was able to download or print the daily food planner doc. - Success |
+| As a website user I want to press on 'submit' in the form section of the enquire now page and my form be submitted | I filled out the form then pressed 'submit' | My form was submitted - Success |
+| As a person new to fitness I want to learn new information about workouts | I pressed on 'Workout Info' where I was then able to scroll down through the page reading the information provided on workouts | I was easily able to navigate myself to the workout information page, where I was able to scroll down the page and clearly read the information provided on workouts - Success |
+| As a person new to fitness I want to learn new information about food and dieting to help me understand what I should be eating | I pressed on 'Nutrition' where I was then able to scroll down the page reading the information provided on nutrition | I was easily able to navigate myself to the nutrition page, where I was able to scroll down the page and clearly read the information provided on nutrtion - Success |
+| As a person new to fitness I want to trust in the business and information provided by seeing positive reviews/testimonials from previous clients | On the home page, first thing I see if an overview of the business with the trainer's qualifications and experience. I then scrolled down where I was able to read some testimonials from previous clients | Clear easy layout where I was able to naviagte myself to the client testimonials - Success |
+
 
 ### Features test
