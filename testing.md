@@ -34,7 +34,6 @@ No bugs found in final deployment.
 ### Code validation test (CSS)
 
 ### User stroies test
-
 | Expect | Action | Result |
 | --- | --- | --- |
 | As a website user I want to press on the business logo in the navigation section and be taken to the home page | I pressed on the logo in the navigation section at the top of the website | I was taken to the home page - Success |
