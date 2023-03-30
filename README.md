@@ -93,6 +93,36 @@ Ideally most users of this website are perhaps considering getting themselves a 
 
 ### Wireframes:
 
+| Device | Website page | Page 1 | Page 2 | 
+| --- | --- | --- | --- |
+| Mobile | Home page | ![Wireframe - mobile home page 1](wireframes/wireframe-mobile-pg1-home.png) | ![Wireframe - mobile home page 2](wireframes/wireframe-mobile-pg2-home.png) |
+| Tablet | Home page | ![Wireframe - tablet home page 1](wireframes/wireframe-tablet-pg1-home.png) | ![Wireframe - tablet home page 2](wireframes/wireframe-tablet-pg2-home.png) |
+| Desktop | Home page | ![Wireframe - desktop home page 1](wireframes/wireframe-desktop-pg1-home.png) | ![Wireframe - desktop home page 2](wireframes/wireframe-desktop-pg2-home.png) |
+| Mobile | Workout page | ![Wireframe - mobile workout page 1](wireframes/wireframe-mobile-pg1-workout.png) | ![Wireframe - mobile workout page 2](wireframes/wireframe-mobile-pg2-workout.png) |
+| Tablet | Workout page | ![Wireframe - tablet workout page 1](wireframes/wireframe-tablet-pg1-workout.png) | ![Wireframe - tablet workout page 2](wireframes/wireframe-tablet-pg2-workout.png) |
+| Desktop | Workout page | ![Wireframe - desktop workout page 1](wireframes/wireframe-desktop-pg1-workout.png) | ![Wireframe - desktop workout page 2](wireframes/wireframe-desktop-pg2-workout.png) |
+| Mobile | Nutrition page | ![Wireframe - mobile nutrition page 1](wireframes/wireframe-mobile-pg1-nutrition.png) | ![Wireframe - mobile nutrition page 2](wireframes/wireframe-mobile-pg2-nutrition.png) |
+| Tablet | Nutrition page | ![Wireframe - tablet nutrition page 1](wireframes/wireframe-tablet-pg1-nutrition.png) | ![Wireframe - tablet nutrition page 2](wireframes/wireframe-tablet-pg2-nutrition.png) |
+| Desktop | Nutrition page | ![Wireframe - desktop nutrition page 1](wireframes/wireframe-desktop-pg1-nutrition.png) | ![Wireframe - desktop nutrition page 2](wireframes/wireframe-desktop-pg2-nutrition.png) |
+| Mobile | Enquire page | ![Wireframe - mobile enquire page 1](wireframes/wireframe-mobile-pg1-enquire.png) | ![Wireframe - mobile enquire page 2](wireframes/wireframe-mobile-pg2-enquire.png) |
+| Tablet | Enquire page | ![Wireframe - tablet enquire page 1](wireframes/wireframe-tablet-pg1-enquire.png) | ![Wireframe - tablet enquire page 2](wireframes/wireframe-tablet-pg2-enquire.png) |
+| Desktop | Enquire page | ![Wireframe - desktop enquire page 1](wireframes/wireframe-desktop-pg1-enquire.png) | ![Wireframe - desktop enquire page 2](wireframes/wireframe-desktop-pg2-enquire.png) |
+
+
+#### Home page on all devices:
+ - ![Wireframe - all home pages](wireframes/wireframe-all-home.png)
+
+#### Workout page on all devices:
+- ![Wireframe - all workout pages](wireframes/wireframe-all-workout.png)
+
+#### Home page on all devices:
+- ![Wireframe - all nutrition pages](wireframes/wireframe-all-nutrition.png)
+
+#### Home page on all devices:
+- ![Wireframe - all enquire pages](wireframes/wireframe-all-enquire.png)
+
+#### All Pages on all devices:
+![Wireframe - all pages](wireframes/wireframe-all-pages.png)
 
 ## TESTING
 
