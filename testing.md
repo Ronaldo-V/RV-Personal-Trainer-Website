@@ -16,6 +16,13 @@
 | Footer Responsiveness | Good | Good | Good | Good | Good |
 
 ### Browser compatibility test
+The website's appearance should be the same, regardless of the browser being used.
+The website's responsiveness should be the same, regardless of the browser being used.
+
+|   | Chrome | Edge | Safari | 
+| --- | --- | --- | --- |
+| Intended appearance? | Good | Good | Good |
+| Intended responsiveness | Good | Good | Good | 
 
 ### Bugs test
 
