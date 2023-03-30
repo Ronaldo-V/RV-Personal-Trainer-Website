@@ -19,6 +19,24 @@ Ideally most users of this website are perhaps considering getting themselves a 
 
 ## FEATURES
 
+- Responsiveness
+    - All pages and content within them have been designed with a mobile-first approach and made to be fully responsive on all devices.
+- Header 
+    - Contains the navigation links to change from page to page.
+- Footer
+    - Contains a sales pitch with a link to the enquire page, as well as the social media accounts of the business.
+- Workout page
+    - This page explains the importance of weight training, cardio training and strecthing.
+- Nutritions page 
+    - Full of information on the type of foods we should be eating and why they are needed.
+    - The food help section has links provided to help users further understand the type of foods they should eat and to help plan their meals. All links open in a new tab.
+- Enquire page
+    - A larger, clearer logo is displayed for all users to see and remind them of the fact this is a legitimate trustworthy business.
+    - The sales pitch is to help convince people who are unsure about doing PT sessions to give it a try
+    - The form is to gather information from possible clients and is the first step they take before undergoing PT sessions.
+- Links
+    - Hovering over links will change its color into green
+
 ## UX/UI SECTION  
 
 ### Site Goals:
