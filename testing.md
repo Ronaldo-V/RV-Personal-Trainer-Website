@@ -30,7 +30,13 @@ iPhone 6 - this is another mobile device with slightly different dimensions and 
 | Page | Screenshots | Page | Screenshots | Page | Screenshots |
 | --- | --- | --- | --- | --- | --- |
 | Home page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-home1.png) | Home page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-home2.png) | Home page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-home3.png) |
-| Workout page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-workout.png)| Nutrition page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-nutrition.png) | Enquire page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-enquire.png) |
+| Workout page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-workout.png) | Nutrition page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-nutrition.png) | Enquire page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-enquire.png) |
+
+iPad Mini - Small tablet device :
+| Page | Screenshots | Page | Screenshots | Page | Screenshots |
+| --- | --- | --- | --- | --- | --- |
+| Home page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-home1.png) | Home page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-home2.png) | Workout page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-workout.png) |
+| Nutrition page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-nutrition.png) | Enquire page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-enquire.png) | |
 
 
 ### Browser compatibility test
