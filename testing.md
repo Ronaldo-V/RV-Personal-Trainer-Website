@@ -109,7 +109,7 @@ HTML validator used: [https://validator.w3.org/]
 ### Second Test - Enquire page
 | Test result screenshot | Action needed |
 | --- | --- |
-| ![Initial HTML test - Enquire page](testing-screenshots/html-and-css-testing/html-test-enquire2.png) | No action needed |
+| ![Second HTML test - Enquire page](testing-screenshots/html-and-css-testing/html-test-enquire2.png) | No action needed |
 
 ## Code validation test (CSS)
 CSS validator used: [https://jigsaw.w3.org/css-validator/]
@@ -122,7 +122,7 @@ CSS validator used: [https://jigsaw.w3.org/css-validator/]
 ### Second Test
 | Test result screenshot | Action needed |
 | --- | --- |
-| ![Initial CSS test](testing-screenshots/html-and-css-testing/css-test2.png) | No action needed |
+| ![Second CSS test](testing-screenshots/html-and-css-testing/css-test2.png) | No action needed |
 
 
 ## User stroies test
