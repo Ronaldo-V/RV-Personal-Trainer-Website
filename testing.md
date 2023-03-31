@@ -38,6 +38,11 @@ iPad Mini - Small tablet device :
 | Home page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-home1.png) | Home page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-home2.png) | Workout page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-workout.png) |
 | Nutrition page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-nutrition.png) | Enquire page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-enquire.png) | |
 
+iPad Pro - Large tablet device :
+| Page | Screenshots | Page | Screenshots |
+| --- | --- | --- | --- |
+| Home page | ![Responsiveness test iPad Pro](testing-screenshots/responsiveness-testing/ipad-pro-home.png) | Workout page | ![Responsiveness test iPad Pro](testing-screenshots/responsiveness-testing/ipad-pro-workout.png) |
+| Nutrition page | ![Responsiveness test iPad Pro](testing-screenshots/responsiveness-testing/ipad-pro-nutrition.png) | Enquire page | ![Responsiveness test iPad Pro](testing-screenshots/responsiveness-testing/ipad-pro-enquire.png) |
 
 ### Browser compatibility test
 The website's appearance should be the same, regardless of the browser being used.
