@@ -1,6 +1,8 @@
 ## TESTING
 
 ### Responsiveness test
+All pages and the content within them have been designed with a mobile-first approach and made to be fully responsive on all devices.
+
 - The website should shrink/expand accordingly with the layout changing ever so slightly depending on the device screen width.
 - All links should work regardless of the device being used.
 - All Content must be readable.
@@ -98,3 +100,18 @@ No bugs found in final deployment.
 | As a person wanting a PT, I want to see client testimonials to see how previous and current clients have found their training experiences | On the home page, I scrolled down to the client testimonials section to read the client reviews | I was able to easily navigate myself to the testimonials section where I was able to read multiple reviews from previous/current clients, helping me come to a final decision - Success |
 
 ### Features test
+| Feature | Expect | Action | Result |
+| --- | --- | --- | --- |
+| Business logo navigation button | When clicked, the home page will open | Clicked on the business logo in the navigation | Home page opened when clicked - Success |
+| 'Home' navigation button | When clicked, the home page will open | Clicked 'Home' in the navigation | Home page opened when clicked - Success |
+| 'Workout Info' navigation button | When clicked, the workout info page will open | Clicked 'Workout Info' in the navigation | Workout page opened when clicked - Success |
+| 'Nutrition' navigation button | When clicked, the nutrition page will open | Clicked 'Nutrition' in the navigation | Nutrition page opened when clicked - Success |
+| 'Enquire Now' navigation button | When clicked, the enquire page will open | Clicked 'Enquire Now' in the navigation | Enquire page opened when clicked - Success |
+| 'Enquire Now!' footer button | When clicked, the enquire page will open | Clicked 'Enquire Now!' in the footer | Enquire page opened when clicked - Success |
+| Facebook link in footer | When clicked, I will be redirected to the business' Facebook account | Clicked on the Facebook icon in the footer section | Was redirected to the facebook page of the business - Success |
+| Instagram link in footer | When clicked, I will be redirected to the business' Instagram account | Clicked on the Instagram icon in the footer section | Was redirected to the Instagram page of the business - Success |
+| NHS Eatwell Guide link | Press 'NHS Eatwell Guide' and be taken to the NHS website regarding this | Pressed on the NHS Eatwell Guide link in the nutrition page | Was taken to the NHS Eatwell Guide section on the NHS website - Success |
+| Daily food planner link | Press 'download or print' and be taken to the downloadable/printable document regarding this | Pressed on the download or print link in the nutritions page above the Eatwell Guide | Was taken to the relevant food planner document where I was able to download and/or print this pdf doc. - Success |
+| Form Submit Button | The form submits when the 'submit' button is clicked | Clicked 'submit form' in the form section | The form submitted when the submit button was clicked - Success |
+| Hovering over links in the nav, footer and nutrition 'food help' section | When the cursor hovers over a link, the text will change color into green. When the cursor is removed, the text will return to its original white color | I hovered over the links in the nav, footer and nutrition sections | The links changed color into green, then returned to its original white color once the cursor was removed - Success |
+| Hovering over the 'submit' button in the form section | When the cursor hovers over the submit button, the text will change color into white with the background green color changing into a darker shade of green. When the cursor is removed, the text and background will return to its original colors | I hovered over the submit button in the form section | The text and background changed colors accordingly, then returned to its original colors once the cursor was removed - Success|

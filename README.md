@@ -18,9 +18,6 @@ Ideally most users of this website are perhaps considering getting themselves a 
 | [Future Features](#future-features) |
 
 ## FEATURES
-
-- Responsiveness
-    - All pages and content within them have been designed with a mobile-first approach and made to be fully responsive on all devices.
 - Header 
     - Contains the navigation links to change from page to page.
 - Footer
