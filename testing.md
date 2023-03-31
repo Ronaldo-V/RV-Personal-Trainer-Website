@@ -20,14 +20,17 @@ Tests have been done through the use of DevTools on the browser.
 I Have tested every device available in which the DevTools allow. Below are screenshots of some devices tested on.
 
 Galaxy fold - this was the thinnest mobile device:
-| Page | Screenshots |
-| --- | --- |
-| Home page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home1.png)|
-| Home page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home2.png)|
-| Home page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home3.png)|
-| Workout page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-workout.png)|
-| Nutrition page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-nutrition.png)|
-| Enquire page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-enquire.png)|
+| Page | Screenshots | Page | Screenshots |
+| --- | --- | --- | --- |
+| Home page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home1.png) | Home Page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home2.png) |
+| Home page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home3.png) | Workout page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-workout.png) |  
+| Nutrition page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-nutrition.png)| Enquire page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-enquire.png) |
+
+iPhone 6 - this is another mobile device with slightly different dimensions and has the device frame included:
+| Page | Screenshots | Page | Screenshots | Page | Screenshots |
+| --- | --- | --- | --- | --- | --- |
+| Home page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-home1.png) | Home page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-home2.png) | Home page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-home3.png) |
+| Workout page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-workout.png)| Nutrition page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-nutrition.png) | Enquire page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-enquire.png) |
 
 
 ### Browser compatibility test
