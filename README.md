@@ -8,6 +8,7 @@ Ideally most users of this website are perhaps considering getting themselves a 
 ## TABLE OF CONTENTS
 | Section |
 | --- |
+| [Typography](#typography) |
 | [Project Logo, title and desciption](#rvpt-website) |
 | [Features](#features) |
 | [UX / UI](#uxui-section) |
@@ -16,6 +17,12 @@ Ideally most users of this website are perhaps considering getting themselves a 
 | [Deployment](#deployment) |
 | [Citation of sources](#citation-of-sources) |
 | [Future Features](#future-features) |
+
+## TYPOGRAPHY
+- Ubuntu is the font used for the body with sans serif used as a fallback font.
+- The Ubuntu font has been selected as I feel as though it has a similar feel to the font used in the logo, whilst also remaining clear to read.
+- Different font weights have been used for various parts of the website.
+- Most of the content is white text and a black background, but in the form section there are 3 other combinations of text color with a background. The text is clear and easy to read with testing done to ensure it is to a good standard.
 
 ## FEATURES
 - Header 

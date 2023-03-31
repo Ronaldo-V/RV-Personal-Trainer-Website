@@ -1,5 +1,13 @@
 # TESTING
 
+## Typography test
+| Text color and background color | Screenshot |
+| --- | --- |
+| White text, black background| ![Typography test 1](testing-screenshots/typography-testing/color-test-1.png) |
+| Black text, white background| ![Typography test 1](testing-screenshots/typography-testing/color-test-2.png) |
+| Black text, light green background| ![Typography test 1](testing-screenshots/typography-testing/color-test-3.png) |
+| White text, dark green background| ![Typography test 1](testing-screenshots/typography-testing/color-test-4.png) |
+
 ## Responsiveness test
 All pages and the content within them have been designed with a mobile-first approach and made to be fully responsive on all devices.
 
