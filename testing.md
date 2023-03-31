@@ -59,13 +59,31 @@ I Have tested every device available in which the DevTools allow. Below are scre
 | Nutrition page | ![Responsiveness test Custom Device](testing-screenshots/responsiveness-testing/custom-screen-nutrition.png) | Enquire page | ![Responsiveness test Custom Device](testing-screenshots/responsiveness-testing/custom-screen-enquire.png) |
 
 ## Browser compatibility test
-The website's appearance should be the same, regardless of the browser being used.
-The website's responsiveness should be the same, regardless of the browser being used.
+The website's appearance should be the same, regardless of the browser being used. The website's responsiveness should be the same, regardless of the browser being used.
 
 |   | Chrome | Edge | Safari | 
 | --- | --- | --- | --- |
 | Intended appearance? | Good | Good | Good |
-| Intended responsiveness | Good | Good | Good | 
+| Intended responsiveness? | Good | Good | Good | 
+
+### Here are some screenshots when using Chrome
+| Feature being tested | Screenshot | Result |
+| --- | --- | --- |
+| Instagram link | ![Instagram link](testing-screenshots/browser-testing/chrome-test1.png) | Instagram opens in a new tab as intended. The Instagram icon turns green when hovered over - Success |
+| Facebook link | ![Facebook link](testing-screenshots/browser-testing/chrome-test2.png) | Facebook opens in a new tab as intended. The Facebook icon turns green when hovered over - Success |
+| Form | ![Form](testing-screenshots/browser-testing/chrome-test3.png) | Form cannot be submitted unless both name fields and the email field are filled out. Form submits as intended. The submit button changes text and background colour when hovered over - Success |
+| Food help links | ![Food help links](testing-screenshots/browser-testing/chrome-test4.png) | Both links in the food help section open in a new tab as intended. Both links turn green when hovered over - Success |
+| Header / Navigation links | ![Header / Navigation links](testing-screenshots/browser-testing/chrome-test5.png) | All navigation links turn green when hovered over - Success |
+| Header / Navigation links | ![Header / Navigation links](testing-screenshots/browser-testing/chrome-test6.png) | All navigation links work as intended. I can navigate from one page to another as intended - Success |
+
+### Here are some screenshots when using Edge
+| Feature being tested | Screenshot | Result |
+| --- | --- | --- |
+| Instagram link | ![Instagram link](testing-screenshots/browser-testing/edge-test1.png) | Instagram and Facebook links open in a new tab as intended. Both social media icons turn green when hovered over - Success |
+| Form | ![Form](testing-screenshots/browser-testing/edge-test2.png) | Form cannot be submitted unless both name fields and the email field are filled out. Form submits as intended. The submit button changes text and background colour when hovered over - Success |
+| Food help links | ![Food help links](testing-screenshots/browser-testing/edge-test3.png) | Both links in the food help section open in a new tab as intended. Both links turn green when hovered over - Success |
+| Header / Navigation links | ![Header / Navigation links](testing-screenshots/browser-testing/edge-test4.png) | All navigation links turn green when hovered over - Success |
+| Header / Navigation links | ![Header / Navigation links](testing-screenshots/browser-testing/edge-test5.png) | All navigation links work as intended. I can navigate from one page to another as intended - Success |
 
 ## Bugs test
 No bugs found in final deployment.
@@ -123,7 +141,6 @@ CSS validator used: [https://jigsaw.w3.org/css-validator/]
 | Test result screenshot | Action needed |
 | --- | --- |
 | ![Second CSS test](testing-screenshots/html-and-css-testing/css-test2.png) | No action needed |
-
 
 ## User stroies test
 | Expect | Action | Result |
