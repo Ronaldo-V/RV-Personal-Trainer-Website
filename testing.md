@@ -7,6 +7,8 @@
 - Images should maintain its quality regardless of screen size.
 - The form should be able to be filled out no matter what device is being used.
 
+Tests have been done through the use of DevTools on the browser.
+
 | Device screen width | Extra Small <576px | Small ≥576px | Medium ≥768px | Large ≥992px | Extra Large ≥1200px |
 | --- | --- | --- | --- | --- | --- |
 | Header / Navigation Responsiveness | Good | Good | Good | Good | Good |
@@ -14,6 +16,19 @@
 | All Text Responsiveness | Good | Good | Good | Good | Good |
 | Form Responsiveness | Good | Good | Good | Good | Good |
 | Footer Responsiveness | Good | Good | Good | Good | Good |
+
+I Have tested every device available in which the DevTools allow. Below are screenshots of some devices tested on.
+
+Galaxy fold - this was the thinnest mobile device:
+| Page | Screenshots |
+| --- | --- |
+| Home page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home1.png)|
+| Home page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home2.png)|
+| Home page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home3.png)|
+| Workout page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-workout.png)|
+| Nutrition page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-nutrition.png)|
+| Enquire page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-enquire.png)|
+
 
 ### Browser compatibility test
 The website's appearance should be the same, regardless of the browser being used.
