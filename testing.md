@@ -86,6 +86,31 @@ No bugs found in final deployment.
 ## Code validation test (HTML)
 HTML validator used: [https://validator.w3.org/]
 
+### Initial Test - Home page
+| Test result screenshot | Action needed |
+| --- | --- |
+| ![Initial HTML test - Home page](testing-screenshots/html-and-css-testing/html-test-home.png) | No action needed |
+
+### Initial Test - Workout page
+| Test result screenshot | Action needed |
+| --- | --- |
+| ![Initial HTML test - Workout page](testing-screenshots/html-and-css-testing/html-test-workout.png) | No action needed |
+
+### Initial Test - Nutrition page
+| Test result screenshot | Action needed |
+| --- | --- |
+| ![Initial HTML test - Nutrition page](testing-screenshots/html-and-css-testing/html-test-nutrition.png) | No action needed |
+
+### Initial Test - Enquire page
+| Test result screenshot | Action needed |
+| --- | --- |
+| ![Initial HTML test - Enquire page](testing-screenshots/html-and-css-testing/html-test-enquire1.png) | Remove section element around enquire photo. Remove the h5 element from inside the textarea element. Create a new id to style the text. Remove the type attribute from textarea element. |
+
+### Second Test - Enquire page
+| Test result screenshot | Action needed |
+| --- | --- |
+| ![Initial HTML test - Enquire page](testing-screenshots/html-and-css-testing/html-test-enquire2.png) | No action needed |
+
 ## Code validation test (CSS)
 CSS validator used: [https://jigsaw.w3.org/css-validator/]
 
