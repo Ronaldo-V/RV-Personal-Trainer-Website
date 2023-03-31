@@ -71,6 +71,17 @@ The website's responsiveness should be the same, regardless of the browser being
 No bugs found in final deployment.
 
 ### Lighthouse test
+Mobile devices:
+| Page | Result | Page | Result |
+| --- | --- | --- | --- |
+| Home page | ![Home page](testing-screenshots/lighthouse-testing/lighthouse-mobile-home.png) | Workout page | ![Workout page](testing-screenshots/lighthouse-testing/lighthouse-mobile-workout.png) |
+| Nutrition page | ![Nutrition page](testing-screenshots/lighthouse-testing/lighthouse-mobile-nutrition.png) | Enquire page | ![Enquire page](testing-screenshots/lighthouse-testing/lighthouse-mobile-enquire.png) |
+
+Desktop devices:
+| Page | Result | Page | Result |
+| --- | --- | --- | --- |
+| Home page | ![Home page](testing-screenshots/lighthouse-testing/lighthouse-desktop-home.png) | Workout page | ![Workout page](testing-screenshots/lighthouse-testing/lighthouse-desktop-workout.png) |
+| Nutrition page | ![Nutrition page](testing-screenshots/lighthouse-testing/lighthouse-desktop-nutrition.png) | Enquire page | ![Enquire page](testing-screenshots/lighthouse-testing/lighthouse-desktop-enquire.png) |
 
 ### Code validation test (HTML)
 
