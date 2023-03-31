@@ -74,29 +74,29 @@
                 </div>
             </div>
         </section>
-
+        
         <!-- Form section -->
         <section id="form-area">
-            <form method="POST" action="https://formdump.codeinstitute.net/">
+            <form method="GET" action="./thankyou.html">
                 <div class="row">
                     <div class="col-12">
                         <label for="first-name">First Name</label>
                         <input type="text" class="form-details" id="first-name"
-                        placeholder="First name" required>
+                        placeholder="First name" name="first-name" required>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
                         <label for="last-name">Last Name</label>
                         <input type="text" class="form-details" id="last-name"
-                        placeholder="Last name" required>
+                        placeholder="Last name" name="last-name" required>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-12">
                         <label for="email">Email</label>
                         <input type="email" class="form-details" id="email"
-                        placeholder="email@address.co.uk" required>
+                        placeholder="email@address.co.uk" name="email" required>
                     </div>
                 </div>
                 <br>
@@ -107,39 +107,39 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <label class="form-check-label" for="weight-loss">Weight loss</label>
-                        <input class="form-check-input" type="checkbox" value="weight-loss" id="weight-loss" name="goal">
+                        <label for="weight-loss">Weight loss</label>
+                        <input type="checkbox" value="weight-loss" id="weight-loss" name="goal">
                     </div>
                     <div class="col-12">
-                        <label class="form-check-label" for="fat-loss">Fat loss</label>
-                        <input class="form-check-input" type="checkbox" value="fat-loss" id="fat-loss" name="goal">
+                        <label for="fat-loss">Fat loss</label>
+                        <input type="checkbox" value="fat-loss" id="fat-loss" name="goal">
                     </div>
                     <div class="col-12">
-                        <label class="form-check-label" for="hypertrophy">Hypertrophy (Bulking)</label>
-                        <input class="form-check-input" type="checkbox" value="hypertrophy" id="hypertrophy" name="goal">
+                        <label for="hypertrophy">Hypertrophy (Bulking)</label>
+                        <input type="checkbox" value="hypertrophy" id="hypertrophy" name="goal">
                     </div>
                     <div class="col-12">
-                        <label class="form-check-label" for="strength">Strength Training</label>
-                        <input class="form-check-input" type="checkbox" value="strength" id="strength" name="goal">
+                        <label for="strength">Strength Training</label>
+                        <input type="checkbox" value="strength" id="strength" name="goal">
                     </div>
                     <div class="col-12">
-                        <label class="form-check-label" for="calisthenics">Calisthenics</label>
-                        <input class="form-check-input" type="checkbox" value="calisthenics" id="calisthenics" name="goal">
+                        <label for="calisthenics">Calisthenics</label>
+                        <input type="checkbox" value="calisthenics" id="calisthenics" name="goal">
                     </div>
                     <div class="col-12">
-                        <label class="form-check-label" for="muscle-rehab">Muscle Rehabilitation</label>
-                        <input class="form-check-input" type="checkbox" value="muscle-rehab" id="muscle-rehab" name="goal">
+                        <label for="muscle-rehab">Muscle Rehabilitation</label>
+                        <input type="checkbox" value="muscle-rehab" id="muscle-rehab" name="goal">
                     </div>
                     <div class="col-12">
-                        <label class="form-check-label" for="other-goal">Other</label>
-                        <input class="form-check-input" type="checkbox" value="other-goal" id="other-goal" name="goal">
+                        <label for="other-goal">Other</label>
+                        <input type="checkbox" value="other-goal" id="other-goal" name="goal">
                     </div>
                 </div>
                 <br>
                 <div class="row">
                     <div class="col-12">
                         <label for="health-concern-textarea" id="injuries">Any Injuries or health concerns (please state below):</label>
-                        <textarea id="health-concern-textarea" placeholder="e.g.I have Asthma and an injury to my right knee"></textarea>
+                        <textarea id="health-concern-textarea" placeholder="e.g.I have Asthma and an injury to my right knee" name="condition"></textarea>
                     </div>
                 </div>
                 <button class="submit-button" type="submit">Submit form</button>    

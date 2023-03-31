@@ -22,7 +22,7 @@ Ideally most users of this website are perhaps considering getting themselves a 
 - Ubuntu is the font used for the body with sans serif used as a fallback font.
 - The Ubuntu font has been selected as I feel as though it has a similar feel to the font used in the logo, whilst also remaining clear to read.
 - Different font weights have been used for various parts of the website.
-- Most of the content is white text and a black background, but in the form section there are 3 other combinations of text color with a background. The text is clear and easy to read with testing done to ensure it is to a good standard.
+- Most of the content is white text and a black background, but in the form section there are 3 other combinations of text colour with a background. The text is clear and easy to read with testing done to ensure it is to a good standard.
 
 ## FEATURES
 - Header 
@@ -39,7 +39,7 @@ Ideally most users of this website are perhaps considering getting themselves a 
     - The sales pitch is to help convince people who are unsure about doing PT sessions to give it a try
     - The form is to gather information from possible clients and is the first step they take before undergoing PT sessions.
 - Links
-    - Hovering over links will change its color into green
+    - Hovering over links will change its colour into green
 
 ## UX/UI SECTION  
 
@@ -47,11 +47,11 @@ Ideally most users of this website are perhaps considering getting themselves a 
 -  The goals of this site is inform users about the Personal Training business, general health and fitness knowledge and ultimately get them to sign up for PT sessions. The site should be easy to navigate through, consistent with design, as well as make users want to visit again. It should be aesthetically pleasing with all text being clear to read, all generating a good user experience.  
 
 ### Design Choices:
-- The color scheme of the website as a whole:
-    - A black background with white text. This is to the match the color scheme of the logo design.
+- The colour scheme of the website as a whole:
+    - A black background with white text. This is to the match the colour scheme of the logo design.
     - Thick, curved white borders around the navigation and footer to show clear separation from them to the main content of the page.
     - Colourful images with all workout photos being outside in a park or garden as this will be the primary location of sessions. All of the images also to stand out more by having a dark background as opposed to having a light background.
-    - Green text when hovering over links. This is a darker, more subtle and calmer shade of green which complements the vibrant photos, but more so represent the color of grass from parks. This is because most sessions are predominantly delivered in local parks.
+    - Green text when hovering over links. This is a darker, more subtle and calmer shade of green which complements the vibrant photos, but more so represent the colour of grass from parks. This is because most sessions are predominantly delivered in local parks.
 
 - The structure of the website: 
     - As all good websites have, each page will have a navigation menu at the top of the page and a footer at the bottom of the page. This repetition is said to make user experiences better as users like it when a website has a common theme/layout, so that it then becomes quick and easy to learn and navigate through.
@@ -69,22 +69,22 @@ Ideally most users of this website are perhaps considering getting themselves a 
     - Lastly, the enquire page. The PT logo is the first thing seen in the enquire section to reminder users that this is a legitimate company, while also providing a clear display of the logo as it is only seen elsewhere in the nav which is rather small. This page summarises why you should train with me, followed by a form to complete if interested in personal training. 
     - At the bottom of each page there will be a footer. The footer is being used as a sales point leading users to the enquire page and my social media accounts, both designed to help bring in new clients.
     - Each photo is deliberately selected to match with the topic we are talking about, with all text written next to or below the photo (depending on the device). I aim to create clear division in topics through the use of photos, the topic title and spacing. This structure stays consistent throughout to keep the user experience good.
-    - As this website has many pictures with lots of colors, I wanted to keep the text simple and clear, which is why I opted for a lack of font-awesome icons. Plus I feel as though the font-awesome icons would have just been of the same thing as the image, which I feel there is no need to repeat.
+    - As this website has many pictures with lots of colours, I wanted to keep the text simple and clear, which is why I opted for a lack of font-awesome icons. Plus I feel as though the font-awesome icons would have just been of the same thing as the image, which I feel there is no need to repeat.
     - Ubuntu font has been selected as I feel as though it has a similar feel to the font used in the logo.  
 
 ### User Stories:
-- As a website user:  
-    - I want to press on the logo and be taken to the home page.
-    - I want to press home and be taken to the home page.
-    - I want to press workout info and be taken to the the workout info page.
-    - I want to press nutrition and be taken to the nurtrition page.
-    - I want to press enquire now in the header and be taken to the enquire page.
-    - I want to press the instagram icon and be taken to the businesses instagram account.
-    - I want to press the facebook icon and be taken to the businesses facebook account.
-    - I want to press enquire now in the footer and be taken to the enquire page.
-    - I want to press Eatwell Guide and be redirected to the NHS website referencing this.
-    - I want to press the download or print link in the nutritions page and have a printable/downloadable doc.
-    - I want to press submit in the form and my form be submitted.
+- As a regular website user:  
+    - I want to click on the logo and be taken to the home page.
+    - I want to click home and be taken to the home page.
+    - I want to click workout info and be taken to the the workout info page.
+    - I want to click nutrition and be taken to the nurtrition page.
+    - I want to click enquire now in the header and be taken to the enquire page.
+    - I want to click the instagram icon and be taken to the businesses instagram account.
+    - I want to click the facebook icon and be taken to the businesses facebook account.
+    - I want to click enquire now in the footer and be taken to the enquire page.
+    - I want to click Eatwell Guide and be redirected to the NHS website referencing this.
+    - I want to click the download or print link in the nutritions page and have a printable/downloadable doc.
+    - I want to click submit in the form and my form be submitted.
 
 - As a person new to fitness:
     - I want to learn new information about workouts to help me when in the gym.
@@ -96,7 +96,6 @@ Ideally most users of this website are perhaps considering getting themselves a 
     - I want to see client testimonials to see how previous and current clients have found their training experiences.
 
 ### Wireframes:
-
 | Device | Website page | Page 1 | Page 2 | 
 | --- | --- | --- | --- |
 | Mobile | Home page | ![Wireframe - mobile home page 1](wireframes/wireframe-mobile-pg1-home.png) | ![Wireframe - mobile home page 2](wireframes/wireframe-mobile-pg2-home.png) |
@@ -139,7 +138,7 @@ To deploy this page to GitHub pages from its GitHub repository, the following st
 3. From the menu list near the top below the project name, select settings
 4. There will be a nav down the left of the screen. Find pages and select it when found
 5. Select the branch dropdown which will say none and change it to main
-6. Press the save button to the right of it
+6. Click the save button to the right of it
 
 How to run this project locally:
 1. To clone this project into Gitpod you will need a GitHub account

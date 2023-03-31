@@ -1,7 +1,20 @@
 # TESTING
 
+## TABLE OF CONTENTS
+| Section |
+| --- |
+| [Typography Test](#typography-test) |
+| [Responsiveness Test](#responsiveness-test) |
+| [Browser Compatibility Test](#browser-compatibility-test) |
+| [Bugs test](#bugs-test) |
+| [Lighthouse Test](#lighthouse-test) |
+| [Code Validation Test (HTML)](#code-validation-test-html) |
+| [Code Validation Test (CSS)](#code-validation-test-css) |
+| [User Stories Test](#user-stories-test) |
+| [Features Test](#features-test) |
+
 ## Typography test
-| Text color and background color | Screenshot |
+| Text colour and background colour | Screenshot |
 | --- | --- |
 | White text, black background| ![Typography test 1](testing-screenshots/typography-testing/color-test-1.png) |
 | Black text, white background| ![Typography test 1](testing-screenshots/typography-testing/color-test-2.png) |
@@ -150,22 +163,22 @@ CSS validator used: [https://jigsaw.w3.org/css-validator/]
 | --- | --- |
 | ![Second CSS test](testing-screenshots/html-and-css-testing/css-test2.png) | No action needed |
 
-## User stroies test
+## User stories test
 | Expect | Action | Result |
 | --- | --- | --- |
-| As a website user I want to press on the business logo in the navigation section and be taken to the home page | I pressed on the logo in the navigation section at the top of the website | I was taken to the home page - Success |
-| As a website user I want to press on 'home' in the navigation and be taken to the home page | I pressed on 'home' in the navigation | I was taken to the home page of the website - Success |
-| As a website user I want to press 'Workout Info' and be taken to the the workout information page | I pressed on 'Workout Info' in the navigation | I was taken to the workout information page - Success |
-| As a website user I want to press 'Nutrition' and be taken to the nutrition page | I pressed on 'Nutrition' in the navigation | I was taken to the nutrition page - Success |
-| As a website user I want to press 'Enquire Now' and be taken to the enquire page | I pressed on 'Enquire Now' in the navigation | I was taken to the enquire page - Success |
-| As a website user I want to press on the instagram icon and be taken to the business' instagram account | I pressed on the instagram icon in the footer | I was taken to the business' instagram account - Success |
-| As a website user I want to press on the facebook icon and be taken to the business' facebook account | I pressed on the facebook icon in the footer | I was taken to the business' instagram account - Success |
-| As a website user I want to press 'Enquire Now!' in the footer and be taken to the enquire page | I pressed on 'Enquire Now!' in the footer | I was taken to the enquire page - Success |
-| As a website user I want to press on the 'NHS Eatwell Guide' link in the nutritions page and be redirected to the NHS Eatwell Guide page on the NHS website | I pressed on 'NHS Eatwell Guide' | I was redirected to the NHS Eatwell Guide page on the NHS website - Success |
-| As a website user I want to press on the 'download or print' link in the nutritions page and have a printable/downloadable food planner document | I pressed on 'download or print' | I was redirected to a separate pdf document where I was able to download or print the daily food planner doc. - Success |
-| As a website user I want to press on 'submit' in the form section of the enquire now page and my form be submitted | I filled out the form then pressed 'submit' | My form was submitted - Success |
-| As a person new to fitness I want to learn new information about workouts | I pressed on 'Workout Info' where I was then able to scroll down through the page reading the information provided on workouts | I was easily able to navigate myself to the workout information page, where I was able to scroll down the page and clearly read the information provided on workouts - Success |
-| As a person new to fitness I want to learn new information about food and dieting to help me understand what I should be eating | I pressed on 'Nutrition' where I was then able to scroll down the page reading the information provided on nutrition | I was easily able to navigate myself to the nutrition page, where I was able to scroll down the page and clearly read the information provided on nutrtion - Success |
+| As a website user I want to click on the business logo in the navigation section and be taken to the home page | I clicked on the logo in the navigation section at the top of the website | I was taken to the home page - Success |
+| As a website user I want to click on 'home' in the navigation and be taken to the home page | I clicked on 'home' in the navigation | I was taken to the home page of the website - Success |
+| As a website user I want to click 'Workout Info' and be taken to the the workout information page | I clicked on 'Workout Info' in the navigation | I was taken to the workout information page - Success |
+| As a website user I want to click 'Nutrition' and be taken to the nutrition page | I clicked on 'Nutrition' in the navigation | I was taken to the nutrition page - Success |
+| As a website user I want to click 'Enquire Now' and be taken to the enquire page | I clicked on 'Enquire Now' in the navigation | I was taken to the enquire page - Success |
+| As a website user I want to click on the instagram icon and be taken to the business' instagram account | I clicked on the instagram icon in the footer | I was taken to the business' instagram account - Success |
+| As a website user I want to click on the facebook icon and be taken to the business' facebook account | I clicked on the facebook icon in the footer | I was taken to the business' instagram account - Success |
+| As a website user I want to click 'Enquire Now!' in the footer and be taken to the enquire page | I clicked on 'Enquire Now!' in the footer | I was taken to the enquire page - Success |
+| As a website user I want to click on the 'NHS Eatwell Guide' link in the nutritions page and be redirected to the NHS Eatwell Guide page on the NHS website | I clicked on 'NHS Eatwell Guide' | I was redirected to the NHS Eatwell Guide page on the NHS website - Success |
+| As a website user I want to click on the 'download or print' link in the nutritions page and have a printable/downloadable food planner document | I clicked on 'download or print' | I was redirected to a separate pdf document where I was able to download or print the daily food planner doc. - Success |
+| As a website user I want to click on 'submit' in the form section of the enquire now page and my form be submitted | I filled out the form then clicked 'submit' | My form was submitted - Success |
+| As a person new to fitness I want to learn new information about workouts | I clicked on 'Workout Info' where I was then able to scroll down through the page reading the information provided on workouts | I was easily able to navigate myself to the workout information page, where I was able to scroll down the page and clearly read the information provided on workouts - Success |
+| As a person new to fitness I want to learn new information about food and dieting to help me understand what I should be eating | I clicked on 'Nutrition' where I was then able to scroll down the page reading the information provided on nutrition | I was easily able to navigate myself to the nutrition page, where I was able to scroll down the page and clearly read the information provided on nutrtion - Success |
 | As a person new to fitness I want to trust in the business and information provided by seeing positive reviews/testimonials from previous clients | On the home page, first thing I see if an overview of the business with the trainer's qualifications and experience. I then scrolled down where I was able to read some testimonials from previous clients | Clear easy layout where I was able to naviagte myself to the client testimonials - Success |
 | As a person new to fitness I want to learn new information about workouts to help me when in the gym | I navigate to the workouts page and read the information provided | There is a lot of information provided and I believe that I now have a better understanding of what to do when working out in the gym - Success |
 | As a person new to fitness I want to learn new information about nutrition to help me make better food choices | I navigate to the nutrition page and read the information provided | There is a lot of information provided and I believe that I now have a better understanding of what I should be eating and in what ratio - Success |
@@ -184,8 +197,8 @@ CSS validator used: [https://jigsaw.w3.org/css-validator/]
 | 'Enquire Now!' footer button | When clicked, the enquire page will open | Clicked 'Enquire Now!' in the footer | Enquire page opened when clicked - Success |
 | Facebook link in footer | When clicked, I will be redirected to the business' Facebook account | Clicked on the Facebook icon in the footer section | Was redirected to the facebook page of the business - Success |
 | Instagram link in footer | When clicked, I will be redirected to the business' Instagram account | Clicked on the Instagram icon in the footer section | Was redirected to the Instagram page of the business - Success |
-| NHS Eatwell Guide link | Press 'NHS Eatwell Guide' and be taken to the NHS website regarding this | Pressed on the NHS Eatwell Guide link in the nutrition page | Was taken to the NHS Eatwell Guide section on the NHS website - Success |
-| Daily food planner link | Press 'download or print' and be taken to the downloadable/printable document regarding this | Pressed on the download or print link in the nutritions page above the Eatwell Guide | Was taken to the relevant food planner document where I was able to download and/or print this pdf doc. - Success |
+| NHS Eatwell Guide link | Click 'NHS Eatwell Guide' and be taken to the NHS website regarding this | Clicked on the NHS Eatwell Guide link in the nutrition page | Was taken to the NHS Eatwell Guide section on the NHS website - Success |
+| Daily food planner link | Click 'download or print' and be taken to the downloadable/printable document regarding this | Clicked on the download or print link in the nutritions page above the Eatwell Guide | Was taken to the relevant food planner document where I was able to download and/or print this pdf doc. - Success |
 | Form Submit Button | The form submits when the 'submit' button is clicked | Clicked 'submit form' in the form section | The form submitted when the submit button was clicked - Success |
-| Hovering over links in the nav, footer and nutrition 'food help' section | When the cursor hovers over a link, the text will change color into green. When the cursor is removed, the text will return to its original white color | I hovered over the links in the nav, footer and nutrition sections | The links changed color into green, then returned to its original white color once the cursor was removed - Success |
-| Hovering over the 'submit' button in the form section | When the cursor hovers over the submit button, the text will change color into white with the background green color changing into a darker shade of green. When the cursor is removed, the text and background will return to its original colors | I hovered over the submit button in the form section | The text and background changed colors accordingly, then returned to its original colors once the cursor was removed - Success|
+| Hovering over links in the nav, footer and nutrition 'food help' section | When the cursor hovers over a link, the text will change colour into green. When the cursor is removed, the text will return to its original white colour | I hovered over the links in the nav, footer and nutrition sections | The links changed colour into green, then returned to its original white colour once the cursor was removed - Success |
+| Hovering over the 'submit' button in the form section | When the cursor hovers over the submit button, the text will change colour into white with the background green colour changing into a darker shade of green. When the cursor is removed, the text and background will return to its original colours | I hovered over the submit button in the form section | The text and background changed colours accordingly, then returned to its original colours once the cursor was removed - Success|
