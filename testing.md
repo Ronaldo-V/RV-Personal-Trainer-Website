@@ -19,30 +19,36 @@ Tests have been done through the use of DevTools on the browser.
 
 I Have tested every device available in which the DevTools allow. Below are screenshots of some devices tested on.
 
-Galaxy fold - this was the thinnest mobile device:
+Galaxy fold - this was the thinnest mobile device (XS Device):
 | Page | Screenshots | Page | Screenshots |
 | --- | --- | --- | --- |
 | Home page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home1.png) | Home Page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home2.png) |
 | Home page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home3.png) | Workout page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-workout.png) |  
 | Nutrition page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-nutrition.png)| Enquire page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-enquire.png) |
 
-iPhone 6 - this is another mobile device with slightly different dimensions and has the device frame included:
+iPhone 6 - this is another mobile device with slightly different dimensions and has the device frame included (XS Device):
 | Page | Screenshots | Page | Screenshots | Page | Screenshots |
 | --- | --- | --- | --- | --- | --- |
 | Home page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-home1.png) | Home page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-home2.png) | Home page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-home3.png) |
 | Workout page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-workout.png) | Nutrition page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-nutrition.png) | Enquire page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-enquire.png) |
 
-iPad Mini - Small tablet device :
+iPad Mini - Small tablet device (M Device):
 | Page | Screenshots | Page | Screenshots | Page | Screenshots |
 | --- | --- | --- | --- | --- | --- |
 | Home page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-home1.png) | Home page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-home2.png) | Workout page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-workout.png) |
 | Nutrition page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-nutrition.png) | Enquire page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-enquire.png) | |
 
-iPad Pro - Large tablet device :
+iPad Pro - Large tablet device (L Device):
 | Page | Screenshots | Page | Screenshots |
 | --- | --- | --- | --- |
 | Home page | ![Responsiveness test iPad Pro](testing-screenshots/responsiveness-testing/ipad-pro-home.png) | Workout page | ![Responsiveness test iPad Pro](testing-screenshots/responsiveness-testing/ipad-pro-workout.png) |
 | Nutrition page | ![Responsiveness test iPad Pro](testing-screenshots/responsiveness-testing/ipad-pro-nutrition.png) | Enquire page | ![Responsiveness test iPad Pro](testing-screenshots/responsiveness-testing/ipad-pro-enquire.png) |
+
+Nest Hub Max - (XL Device):
+| Page | Screenshots | Page | Screenshots | Page | Screenshots |
+| --- | --- | --- | --- | --- | --- |
+| Home page | ![Responsiveness test Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-home1.png) | Home page | ![Responsiveness test Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-home2.png) | Workout page | ![Responsiveness test Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-workout.png) |
+| Nutrition page | ![Responsiveness Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-nutrition.png) | Enquire page | ![Responsiveness test Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-enquire.png) | |
 
 ### Browser compatibility test
 The website's appearance should be the same, regardless of the browser being used.
