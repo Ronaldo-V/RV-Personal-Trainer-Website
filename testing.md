@@ -50,6 +50,12 @@ Nest Hub Max - (XL Device):
 | Home page | ![Responsiveness test Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-home1.png) | Home page | ![Responsiveness test Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-home2.png) | Workout page | ![Responsiveness test Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-workout.png) |
 | Nutrition page | ![Responsiveness Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-nutrition.png) | Enquire page | ![Responsiveness test Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-enquire.png) | |
 
+Custom Device dimensions (roughly the size of a 27inch TV) - Extra Large Desktop/Small TV (XL Device):
+| Page | Screenshots | Page | Screenshots |
+| --- | --- | --- | --- |
+| Home page | ![Responsiveness test Custom Device](testing-screenshots/responsiveness-testing/custom-screen-home.png) | Workout page | ![Responsiveness test Custom Device](testing-screenshots/responsiveness-testing/custom-screen-workout.png) |
+| Nutrition page | ![Responsiveness test Custom Device](testing-screenshots/responsiveness-testing/custom-screen-nutrition.png) | Enquire page | ![Responsiveness test Custom Device](testing-screenshots/responsiveness-testing/custom-screen-enquire.png) |
+
 ### Browser compatibility test
 The website's appearance should be the same, regardless of the browser being used.
 The website's responsiveness should be the same, regardless of the browser being used.
