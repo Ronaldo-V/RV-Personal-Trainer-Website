@@ -1,6 +1,6 @@
-## TESTING
+# TESTING
 
-### Responsiveness test
+## Responsiveness test
 All pages and the content within them have been designed with a mobile-first approach and made to be fully responsive on all devices.
 
 - The website should shrink/expand accordingly with the layout changing ever so slightly depending on the device screen width.
@@ -21,44 +21,44 @@ Tests have been done through the use of DevTools on the browser.
 
 I Have tested every device available in which the DevTools allow. Below are screenshots of some devices tested on.
 
-Galaxy fold - this was the thinnest mobile device (XS Device):
+### Galaxy fold - this was the thinnest mobile device (XS Device):
 | Page | Screenshots | Page | Screenshots |
 | --- | --- | --- | --- |
 | Home page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home1.png) | Home Page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home2.png) |
 | Home page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-home3.png) | Workout page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-workout.png) |  
 | Nutrition page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-nutrition.png)| Enquire page | ![Responsiveness test Galaxy fold](testing-screenshots/responsiveness-testing/galaxy-fold-enquire.png) |
 
-iPhone 6 - this is another mobile device with slightly different dimensions and has the device frame included (XS Device):
+### iPhone 6 - this is another mobile device with slightly different dimensions and has the device frame included (XS Device):
 | Page | Screenshots | Page | Screenshots | Page | Screenshots |
 | --- | --- | --- | --- | --- | --- |
 | Home page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-home1.png) | Home page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-home2.png) | Home page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-home3.png) |
 | Workout page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-workout.png) | Nutrition page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-nutrition.png) | Enquire page | ![Responsiveness test iPhone 6](testing-screenshots/responsiveness-testing/iphone6-enquire.png) |
 
-iPad Mini - Small tablet device (M Device):
+### iPad Mini - Small tablet device (M Device):
 | Page | Screenshots | Page | Screenshots | Page | Screenshots |
 | --- | --- | --- | --- | --- | --- |
 | Home page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-home1.png) | Home page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-home2.png) | Workout page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-workout.png) |
 | Nutrition page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-nutrition.png) | Enquire page | ![Responsiveness test iPad Mini](testing-screenshots/responsiveness-testing/ipad-mini-enquire.png) | |
 
-iPad Pro - Large tablet device (L Device):
+### iPad Pro - Large tablet device (L Device):
 | Page | Screenshots | Page | Screenshots |
 | --- | --- | --- | --- |
 | Home page | ![Responsiveness test iPad Pro](testing-screenshots/responsiveness-testing/ipad-pro-home.png) | Workout page | ![Responsiveness test iPad Pro](testing-screenshots/responsiveness-testing/ipad-pro-workout.png) |
 | Nutrition page | ![Responsiveness test iPad Pro](testing-screenshots/responsiveness-testing/ipad-pro-nutrition.png) | Enquire page | ![Responsiveness test iPad Pro](testing-screenshots/responsiveness-testing/ipad-pro-enquire.png) |
 
-Nest Hub Max - (XL Device):
+### Nest Hub Max - (XL Device):
 | Page | Screenshots | Page | Screenshots | Page | Screenshots |
 | --- | --- | --- | --- | --- | --- |
 | Home page | ![Responsiveness test Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-home1.png) | Home page | ![Responsiveness test Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-home2.png) | Workout page | ![Responsiveness test Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-workout.png) |
 | Nutrition page | ![Responsiveness Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-nutrition.png) | Enquire page | ![Responsiveness test Nest Hub Max](testing-screenshots/responsiveness-testing/nest-hub-max-enquire.png) | |
 
-Custom Device dimensions (roughly the size of a 27inch TV) - Extra Large Desktop/Small TV (XL Device):
+### Custom Device dimensions (roughly the size of a 27inch TV) - Extra Large Desktop/Small TV (XL Device):
 | Page | Screenshots | Page | Screenshots |
 | --- | --- | --- | --- |
 | Home page | ![Responsiveness test Custom Device](testing-screenshots/responsiveness-testing/custom-screen-home.png) | Workout page | ![Responsiveness test Custom Device](testing-screenshots/responsiveness-testing/custom-screen-workout.png) |
 | Nutrition page | ![Responsiveness test Custom Device](testing-screenshots/responsiveness-testing/custom-screen-nutrition.png) | Enquire page | ![Responsiveness test Custom Device](testing-screenshots/responsiveness-testing/custom-screen-enquire.png) |
 
-### Browser compatibility test
+## Browser compatibility test
 The website's appearance should be the same, regardless of the browser being used.
 The website's responsiveness should be the same, regardless of the browser being used.
 
@@ -67,27 +67,40 @@ The website's responsiveness should be the same, regardless of the browser being
 | Intended appearance? | Good | Good | Good |
 | Intended responsiveness | Good | Good | Good | 
 
-### Bugs test
+## Bugs test
 No bugs found in final deployment.
 
-### Lighthouse test
-Mobile devices:
+## Lighthouse test
+### Mobile devices:
 | Page | Result | Page | Result |
 | --- | --- | --- | --- |
 | Home page | ![Home page](testing-screenshots/lighthouse-testing/lighthouse-mobile-home.png) | Workout page | ![Workout page](testing-screenshots/lighthouse-testing/lighthouse-mobile-workout.png) |
 | Nutrition page | ![Nutrition page](testing-screenshots/lighthouse-testing/lighthouse-mobile-nutrition.png) | Enquire page | ![Enquire page](testing-screenshots/lighthouse-testing/lighthouse-mobile-enquire.png) |
 
-Desktop devices:
+### Desktop devices:
 | Page | Result | Page | Result |
 | --- | --- | --- | --- |
 | Home page | ![Home page](testing-screenshots/lighthouse-testing/lighthouse-desktop-home.png) | Workout page | ![Workout page](testing-screenshots/lighthouse-testing/lighthouse-desktop-workout.png) |
 | Nutrition page | ![Nutrition page](testing-screenshots/lighthouse-testing/lighthouse-desktop-nutrition.png) | Enquire page | ![Enquire page](testing-screenshots/lighthouse-testing/lighthouse-desktop-enquire.png) |
 
-### Code validation test (HTML)
+## Code validation test (HTML)
+HTML validator used: [https://validator.w3.org/]
 
-### Code validation test (CSS)
+## Code validation test (CSS)
+CSS validator used: [https://jigsaw.w3.org/css-validator/]
 
-### User stroies test
+### Initial Test
+| Test result screenshot | Action needed |
+| --- | --- |
+| ![Initial CSS test](testing-screenshots/html-and-css-testing/css-test1.png) | Remove p word-spacing declaration. Remove textarea border declaration. |
+
+### Second Test
+| Test result screenshot | Action needed |
+| --- | --- |
+| ![Initial CSS test](testing-screenshots/html-and-css-testing/css-test2.png) | No action needed |
+
+
+## User stroies test
 | Expect | Action | Result |
 | --- | --- | --- |
 | As a website user I want to press on the business logo in the navigation section and be taken to the home page | I pressed on the logo in the navigation section at the top of the website | I was taken to the home page - Success |
@@ -110,7 +123,7 @@ Desktop devices:
 | As a person wanting a PT, I want to know if the PT knows his stuff and can bring me value if I decide to train with him | I navigate through the website and see all of the information provided | I believe that the trainer can help me with all my goals - Success |
 | As a person wanting a PT, I want to see client testimonials to see how previous and current clients have found their training experiences | On the home page, I scrolled down to the client testimonials section to read the client reviews | I was able to easily navigate myself to the testimonials section where I was able to read multiple reviews from previous/current clients, helping me come to a final decision - Success |
 
-### Features test
+## Features test
 | Feature | Expect | Action | Result |
 | --- | --- | --- | --- |
 | Business logo navigation button | When clicked, the home page will open | Clicked on the business logo in the navigation | Home page opened when clicked - Success |
