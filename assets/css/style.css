@@ -7,22 +7,24 @@
 body {
   background-color: black;
 }
+
+html {
+  font-family: 'Ubuntu', sans-serif;
+  color: white !important;
+  text-align: center;
+  font-weight: 400;
+}
   
 .row::after {
   content: "";
   clear: both;
   display: table;
 }
-  
+
+/* For mobile phones: */ 
 [class*="col-"] {
-    float: left;
-}
-  
-html {
-  font-family: 'Ubuntu', sans-serif;
-  color: white !important;
-  text-align: center;
-  font-weight: 400;
+  float: left;
+  width: 100%;
 }
 
 header, footer {
@@ -38,6 +40,10 @@ footer {
   font-weight: 400;
   min-height: 60px;
   margin-top: 15px;
+}
+
+section {
+  padding: 1%;
 }
 
 #logo-holder {
@@ -102,6 +108,10 @@ a:hover {
   padding: 5% 0;
 }
 
+#hero-image, #hero-text {
+  min-height: 200px;
+}
+
 /* Images */
 img {
   border-radius: 15px;
@@ -121,6 +131,7 @@ img {
 
 /* h1-h6, p and other related changes to text */
 h1 {
+  font-size: 200%;
   font-weight: 700;
   letter-spacing: 10px;
   word-spacing: 10px;
@@ -136,6 +147,7 @@ h2 {
 }
 
 h3 {
+  font-size: 90%;
   font-weight: 500;
   letter-spacing: 2px;
   padding: 0 2.5%;
@@ -152,6 +164,7 @@ h5, label, input, ::placeholder {
 }
 
 h6 {
+  font-size: 70%;
   font-weight: 300;
   letter-spacing: 1px;
   padding: 0 2.5%;
@@ -189,6 +202,7 @@ ul {
 }
 
 table td {
+  display: block;
   text-align: center;
   padding: 1%;
   font-size: 110%;
@@ -201,6 +215,7 @@ li {
 
 /* Enquire page */
 #enquire-image {
+  width: 90vw;
   padding: 0;
   margin: auto;
 }
@@ -210,6 +225,7 @@ li {
 }
 
 #form-area {
+  width: 100%;
   margin: 20px auto;
   padding: 10px;
   background-color: white;
@@ -271,43 +287,6 @@ textarea {
   color: white;
 }
 
-/* For mobile phones: */
-[class*="col-"] {
-  width: 100%;
-}
-
-section {
-  padding: 1%;
-}
-
-#hero-image, #hero-text {
-  min-height: 200px;
-}
-
-h1 {
-  font-size: 200%;
-}
-
-h3 {
-  font-size: 90%;
-}
-
-h6 {
-  font-size: 70%;
-}
-
-table td {
-  display: block;
-}
-
-#enquire-image {
-  width: 90vw;
-}
-
-#form-area {
-  width: 100%;
-}
-  
   @media only screen and (min-width: 600px) {
     /* For horizontal/landscape view on mobiles or extra small tablets: */
     .col-s-1 {width: 8.33%;}
