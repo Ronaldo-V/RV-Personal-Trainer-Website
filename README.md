@@ -1,6 +1,8 @@
 ![RVPT logo](assets/images/pt-logo-white-font.jpg)
 
-# [RVPT WEBSITE](https://ronaldo-v.github.io/RV-Personal-Trainer-Website/)
+# RV Personal Trainer
+[RVPT Website link](https://ronaldo-v.github.io/RV-Personal-Trainer-Website/)
+
 This is a Personal Training website designed to help provide information to people new to the fitness industry but more so, help generate leads (potential clients). 
 
 Ideally most users of this website are perhaps considering getting themselves a personal trainer. They will find this website useful, they would have hopefully learnt at least one new thing about workouts or nutrition, they would have learnt more about myself and my PT business, but ultimately, they end up completing the enquiry form at the end, in the hopes that they end up becoming a client of mine.
@@ -42,7 +44,6 @@ Ideally most users of this website are perhaps considering getting themselves a 
     - Hovering over links will change its colour into green
 
 ## UX/UI SECTION  
-
 ### Site Goals:
 -  The goals of this site is inform users about the Personal Training business, general health and fitness knowledge and ultimately get them to sign up for PT sessions. The site should be easy to navigate through, consistent with design, as well as make users want to visit again. It should be aesthetically pleasing with all text being clear to read, all generating a good user experience.  
 
@@ -111,7 +112,6 @@ Ideally most users of this website are perhaps considering getting themselves a 
 | Tablet | Enquire page | ![Wireframe - tablet enquire page 1](wireframes/wireframe-tablet-pg1-enquire.png) | ![Wireframe - tablet enquire page 2](wireframes/wireframe-tablet-pg2-enquire.png) |
 | Desktop | Enquire page | ![Wireframe - desktop enquire page 1](wireframes/wireframe-desktop-pg1-enquire.png) | ![Wireframe - desktop enquire page 2](wireframes/wireframe-desktop-pg2-enquire.png) |
 
-
 #### Home page on all devices:
  - ![Wireframe - all home pages](wireframes/wireframe-all-home.png)
 
@@ -152,9 +152,7 @@ Then follow the steps:
 5. Click the green 'Gitpod' button in the top right corner of the repository
 6. This will trigger a new Gitpod workspace to be created from the code in GitHub where you can work locally
 
-
 ## CITATION OF SOURCES
-
 ### Media:  
 - I have used the Eatwell Guide image from the NHS Website, this can be found on my Nutritions page:
     - [https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/]  
