@@ -100,11 +100,20 @@ The website's appearance should be the same, regardless of the browser being use
 ### Here are some screenshots when using Edge
 | Feature being tested | Screenshot | Result |
 | --- | --- | --- |
-| Instagram link | ![Instagram link](testing-screenshots/browser-testing/edge-test1.png) | Instagram and Facebook links open in a new tab as intended. Both social media icons turn green when hovered over - Success |
+| Social links | ![Social links](testing-screenshots/browser-testing/edge-test1.png) | Instagram and Facebook links open in a new tab as intended. Both social media icons turn green when hovered over - Success |
 | Form | ![Form](testing-screenshots/browser-testing/edge-test2.png) | Form cannot be submitted unless both name fields and the email field are filled out. Form submits as intended. The submit button changes text and background colour when hovered over - Success |
 | Food help links | ![Food help links](testing-screenshots/browser-testing/edge-test3.png) | Both links in the food help section open in a new tab as intended. Both links turn green when hovered over - Success |
 | Header / Navigation links | ![Header / Navigation links](testing-screenshots/browser-testing/edge-test4.png) | All navigation links turn green when hovered over - Success |
 | Header / Navigation links | ![Header / Navigation links](testing-screenshots/browser-testing/edge-test5.png) | All navigation links work as intended. I can navigate from one page to another as intended - Success |
+
+### Here are some screenshots when using Safari
+| Feature being tested | Screenshot | Result |
+| --- | --- | --- |
+| Social links | ![Social links](testing-screenshots/browser-testing/safari-test1.png) | Instagram and Facebook links open in a new tab as intended. Both social media icons turn green when hovered over - Success |
+| Form | ![Form](testing-screenshots/browser-testing/safari-test2.png) | Form cannot be submitted unless both name fields and the email field are filled out. Form submits as intended. The submit button changes text and background colour when hovered over - Success |
+| Food help links | ![Food help links](testing-screenshots/browser-testing/safari-test3.png) | Both links in the food help section open in a new tab as intended. Both links turn green when hovered over - Success |
+| Header / Navigation links | ![Header / Navigation links](testing-screenshots/browser-testing/safari-test4.png) | All navigation links turn green when hovered over - Success |
+| Header / Navigation links | ![Header / Navigation links](testing-screenshots/browser-testing/safari-test5.png) | All navigation links work as intended. I can navigate from one page to another as intended - Success |
 
 ## Bugs test
 No bugs found in final deployment.
